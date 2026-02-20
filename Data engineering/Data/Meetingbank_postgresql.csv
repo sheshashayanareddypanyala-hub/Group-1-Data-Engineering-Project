@@ -1,0 +1,1251 @@
+meeting_id,city,meeting_date,duration,agenda_type,speaker_count,word_count
+LongBeachCC_08092022,LongBeachCC,2022-08-09,20087.0,Agenda Item,11,50509
+LongBeachCC_07192022,LongBeachCC,2022-07-19,14362.0,Agenda Item,14,35758
+LongBeachCC_07122022,LongBeachCC,2022-07-12,9606.0,Contract,8,22597
+LongBeachCC_07052022,LongBeachCC,2022-07-05,8138.0,Agenda Item,9,20398
+LongBeachCC_06212022,LongBeachCC,2022-06-21,11180.0,Contract,10,27116
+LongBeachCC_06142022,LongBeachCC,2022-06-14,13842.0,Emergency Ordinance,9,36861
+LongBeachCC_05242022,LongBeachCC,2022-05-24,8752.0,Agenda Item,9,20221
+LongBeachCC_05172022,LongBeachCC,2022-05-17,8040.0,Agenda Item,8,19936
+LongBeachCC_05102022,LongBeachCC,2022-05-10,14222.0,Agenda Item,10,37108
+LongBeachCC_05032022,LongBeachCC,2022-05-03,8191.0,Agenda Item,10,19773
+LongBeachCC_04192022,LongBeachCC,2022-04-19,9126.0,Resolution,10,20977
+LongBeachCC_04122022,LongBeachCC,2022-04-12,7313.0,Agenda Item,8,16420
+LongBeachCC_04052022,LongBeachCC,2022-04-05,10756.0,Agenda Item,7,27670
+LongBeachCC_03222022,LongBeachCC,2022-03-22,8269.0,Agenda Item,10,20399
+LongBeachCC_03152022,LongBeachCC,2022-03-15,11182.0,Agenda Item,10,28006
+LongBeachCC_03082022,LongBeachCC,2022-03-08,11066.0,Agenda Item,7,26808
+LongBeachCC_03012022,LongBeachCC,2022-03-01,4661.0,Agenda Item,5,10915
+LongBeachCC_02152022,LongBeachCC,2022-02-15,17278.0,Contract,7,41856
+LongBeachCC_02082022,LongBeachCC,2022-02-08,17074.0,Contract,6,40259
+LongBeachCC_02012022,LongBeachCC,2022-02-01,14230.0,Agenda Item,6,35375
+LongBeachCC_01182022,LongBeachCC,2022-01-18,14633.0,Agenda Item,6,34495
+LongBeachCC_01042022,LongBeachCC,2022-01-04,6039.0,Agenda Item,9,14737
+LongBeachCC_12072021,LongBeachCC,2021-12-07,16856.0,Public Hearing,10,41771
+LongBeachCC_11162021,LongBeachCC,2021-11-16,11777.0,Public Hearing,4,28466
+LongBeachCC_11092021,LongBeachCC,2021-11-09,17006.0,Agenda Item,7,42879
+LongBeachCC_10192021,LongBeachCC,2021-10-19,5882.0,Contract,6,14160
+LongBeachCC_10122021,LongBeachCC,2021-10-12,16414.0,Agenda Item,6,41851
+LongBeachCC_10052021,LongBeachCC,2021-10-05,8575.0,Agenda Item,4,21147
+LongBeachCC_09142021,LongBeachCC,2021-09-14,13898.0,Agenda Item,6,35245
+LongBeachCC_09072021,LongBeachCC,2021-09-07,10414.0,Public Hearing,4,25653
+LongBeachCC_08242021,LongBeachCC,2021-08-24,12806.0,Agenda Item,12,30477
+LongBeachCC_08172021,LongBeachCC,2021-08-17,16569.0,Agenda Item,9,43431
+LongBeachCC_08102021,LongBeachCC,2021-08-10,19156.0,Agenda Item,11,48358
+LongBeachCC_08032021,LongBeachCC,2021-08-03,11406.0,Agenda Item,11,29417
+LongBeachCC_07202021,LongBeachCC,2021-07-20,15667.0,Contract,11,41002
+LongBeachCC_07132021,LongBeachCC,2021-07-13,14791.0,Agenda Item,10,38314
+LongBeachCC_06152021,LongBeachCC,2021-06-15,16709.0,Emergency Ordinance,9,43682
+LongBeachCC_06082021,LongBeachCC,2021-06-08,8610.0,Agenda Item,6,20351
+LongBeachCC_06012021,LongBeachCC,2021-06-01,7413.0,Resolution,8,17377
+LongBeachCC_05182021,LongBeachCC,2021-05-18,14410.0,Agenda Item,11,35949
+LongBeachCC_05112021,LongBeachCC,2021-05-11,4158.0,Agenda Item,7,10336
+LongBeachCC_05042021,LongBeachCC,2021-05-04,8309.0,Contract,6,19691
+LongBeachCC_04202021,LongBeachCC,2021-04-20,16563.0,Contract,9,40337
+LongBeachCC_04132021,LongBeachCC,2021-04-13,13252.0,Resolution,9,31725
+LongBeachCC_04062021,LongBeachCC,2021-04-06,6078.0,Ordinance,6,13854
+LongBeachCC_03232021,LongBeachCC,2021-03-23,3264.0,Agenda Item,8,7292
+LongBeachCC_03162021,LongBeachCC,2021-03-16,19460.0,Resolution,8,48786
+LongBeachCC_03092021,LongBeachCC,2021-03-09,8362.0,Agenda Item,8,19459
+LongBeachCC_03022021,LongBeachCC,2021-03-02,12093.0,Agenda Item,5,29050
+LongBeachCC_02162021,LongBeachCC,2021-02-16,13970.0,Agenda Item,6,32915
+LongBeachCC_02092021,LongBeachCC,2021-02-09,9437.0,Agenda Item,7,23513
+LongBeachCC_02022021,LongBeachCC,2021-02-02,12149.0,Resolution,8,29267
+LongBeachCC_01222021,LongBeachCC,2021-01-22,811.0,Agenda Item,4,1483
+LongBeachCC_01192021,LongBeachCC,2021-01-19,12240.0,Agenda Item,7,28475
+LongBeachCC_01122021,LongBeachCC,2021-01-12,1862.0,Agenda Item,6,4371
+LongBeachCC_01052021,LongBeachCC,2021-01-05,10798.0,Ordinance,9,26229
+LongBeachCC_12152020,LongBeachCC,2020-12-15,12587.0,ABC License,6,29337
+LongBeachCC_12082020,LongBeachCC,2020-12-08,29689.0,Contract,7,75756
+LongBeachCC_11172020,LongBeachCC,2020-11-17,17411.0,Contract,6,39627
+LongBeachCC_11022020,LongBeachCC,2020-11-02,1801.0,Emergency Ordinance,6,4083
+LongBeachCC_10202020,LongBeachCC,2020-10-20,11219.0,Contract,8,27815
+LongBeachCC_10132020,LongBeachCC,2020-10-13,3216.0,Agenda Item,6,7664
+LongBeachCC_10062020,LongBeachCC,2020-10-06,1985.0,Contract,6,3497
+LongBeachCC_09152020,LongBeachCC,2020-09-15,13052.0,Appointment,9,31329
+LongBeachCC_09082020,LongBeachCC,2020-09-08,15139.0,Agenda Item,8,35572
+LongBeachCC_09012020,LongBeachCC,2020-09-01,7729.0,Resolution,6,18297
+LongBeachCC_08252020,LongBeachCC,2020-08-25,13774.0,Ordinance,10,32261
+LongBeachCC_08182020,LongBeachCC,2020-08-18,3144.0,Agenda Item,6,7043
+LongBeachCC_08112020,LongBeachCC,2020-08-11,22905.0,Agenda Item,10,58214
+LongBeachCC_08042020,LongBeachCC,2020-08-04,18342.0,Contract,8,44380
+LongBeachCC_07142020,LongBeachCC,2020-07-14,24912.0,Agenda Item,10,62374
+LongBeachCC_07072020,LongBeachCC,2020-07-07,13571.0,Ordinance,6,33763
+LongBeachCC_06232020,LongBeachCC,2020-06-23,14682.0,Ordinance,8,37547
+LongBeachCC_06162020,LongBeachCC,2020-06-16,13757.0,Agenda Item,7,34442
+LongBeachCC_06092020,LongBeachCC,2020-06-09,17109.0,Ordinance,8,42574
+LongBeachCC_05192020,LongBeachCC,2020-05-19,20851.0,Agenda Item,7,52163
+LongBeachCC_05122020,LongBeachCC,2020-05-12,7396.0,Contract,7,17295
+LongBeachCC_05052020,LongBeachCC,2020-05-05,17319.0,Contract,7,46532
+LongBeachCC_04212020,LongBeachCC,2020-04-21,9464.0,Resolution,4,23234
+LongBeachCC_04142020,LongBeachCC,2020-04-14,11442.0,Resolution,6,26818
+LongBeachCC_03242020,LongBeachCC,2020-03-24,1221.0,Resolution,5,2554
+LongBeachCC_03172020,LongBeachCC,2020-03-17,10240.0,Agenda Item,6,25435
+LongBeachCC_03102020,LongBeachCC,2020-03-10,8483.0,ABC License,11,20235
+LongBeachCC_02182020,LongBeachCC,2020-02-18,10397.0,Resolution,10,26037
+LongBeachCC_02112020,LongBeachCC,2020-02-11,7757.0,Agenda Item,11,20230
+LongBeachCC_02042020,LongBeachCC,2020-02-04,6450.0,Agenda Item,10,15921
+LongBeachCC_01212020,LongBeachCC,2020-01-21,29191.0,Contract,14,72133
+LongBeachCC_01142020,LongBeachCC,2020-01-14,528.0,Agenda Item,6,954
+LongBeachCC_01072020,LongBeachCC,2020-01-07,19990.0,Public Hearing,17,50931
+LongBeachCC_12172019,LongBeachCC,2019-12-17,5459.0,Appointment,10,13070
+LongBeachCC_12102019,LongBeachCC,2019-12-10,11582.0,Emergency Ordinance,11,27580
+LongBeachCC_12032019,LongBeachCC,2019-12-03,19193.0,Resolution,15,47935
+LongBeachCC_11192019,LongBeachCC,2019-11-19,8501.0,Resolution,11,20857
+LongBeachCC_11122019,LongBeachCC,2019-11-12,15708.0,Agenda Item,13,39145
+LongBeachCC_11052019,LongBeachCC,2019-11-05,14786.0,Public Hearing,16,38032
+LongBeachCC_10222019,LongBeachCC,2019-10-22,12930.0,Agenda Item,13,33618
+LongBeachCC_10152019,LongBeachCC,2019-10-15,14313.0,Agenda Item,16,37415
+LongBeachCC_10082019,LongBeachCC,2019-10-08,9251.0,Contract,10,23852
+LongBeachCC_10012019,LongBeachCC,2019-10-01,18206.0,Public Hearing,12,47791
+LongBeachCC_09172019,LongBeachCC,2019-09-17,11490.0,Resolution,12,29066
+LongBeachCC_09102019,LongBeachCC,2019-09-10,5161.0,Public Hearing,11,12217
+LongBeachCC_09032019,LongBeachCC,2019-09-03,23418.0,Public Hearing,14,61365
+LongBeachCC_08202019,LongBeachCC,2019-08-20,21989.0,Appointment,12,60240
+LongBeachCC_08132019,LongBeachCC,2019-08-13,17688.0,Public Hearing,13,46482
+LongBeachCC_08062019,LongBeachCC,2019-08-06,1092.0,Appointment,8,2537
+LongBeachCC_07232019,LongBeachCC,2019-07-23,9924.0,Agenda Item,14,23298
+LongBeachCC_07162019,LongBeachCC,2019-07-16,12526.0,Public Hearing,13,32640
+LongBeachCC_07092019,LongBeachCC,2019-07-09,7295.0,Resolution,12,18929
+LongBeachCC_07022019,LongBeachCC,2019-07-02,13912.0,Agenda Item,15,37734
+LongBeachCC_06182019,LongBeachCC,2019-06-18,8391.0,Agenda Item,12,21294
+LongBeachCC_06112019,LongBeachCC,2019-06-11,15406.0,Agenda Item,12,38616
+LongBeachCC_05212019,LongBeachCC,2019-05-21,14838.0,Agenda Item,16,32978
+LongBeachCC_05142019,LongBeachCC,2019-05-14,15275.0,Resolution,13,42401
+LongBeachCC_05072019,LongBeachCC,2019-05-07,14392.0,Ordinance,12,38380
+LongBeachCC_04232019,LongBeachCC,2019-04-23,12881.0,Agenda Item,13,31539
+LongBeachCC_04162019,LongBeachCC,2019-04-16,14495.0,ABC License,14,38614
+LongBeachCC_04092019,LongBeachCC,2019-04-09,12928.0,Agenda Item,13,33715
+LongBeachCC_04022019,LongBeachCC,2019-04-02,24482.0,Contract,16,69521
+LongBeachCC_03192019,LongBeachCC,2019-03-19,14812.0,Agenda Item,14,38927
+LongBeachCC_03122019,LongBeachCC,2019-03-12,11093.0,Public Hearing,13,29575
+LongBeachCC_03052019,LongBeachCC,2019-03-05,10306.0,Resolution,12,27095
+LongBeachCC_02192019,LongBeachCC,2019-02-19,12763.0,Public Hearing,14,34511
+LongBeachCC_02122019,LongBeachCC,2019-02-12,3176.0,Agenda Item,10,7826
+LongBeachCC_02052019,LongBeachCC,2019-02-05,16515.0,Public Hearing,14,44573
+LongBeachCC_01222019,LongBeachCC,2019-01-22,13845.0,Agenda Item,14,36339
+LongBeachCC_01152019,LongBeachCC,2019-01-15,904.0,Contract,11,1972
+LongBeachCC_01082019,LongBeachCC,2019-01-08,3796.0,Resolution,11,10208
+LongBeachCC_12182018,LongBeachCC,2018-12-18,5270.0,Ordinance,10,13734
+LongBeachCC_12112018,LongBeachCC,2018-12-11,18372.0,Agenda Item,13,48630
+LongBeachCC_12042018,LongBeachCC,2018-12-04,21706.0,Contract,17,56407
+LongBeachCC_11202018,LongBeachCC,2018-11-20,5640.0,Agenda Item,9,14479
+LongBeachCC_11132018,LongBeachCC,2018-11-13,13874.0,Resolution,12,35879
+LongBeachCC_10232018,LongBeachCC,2018-10-23,16538.0,Ordinance,15,43245
+LongBeachCC_10092018,LongBeachCC,2018-10-09,13482.0,Ordinance,12,34947
+LongBeachCC_10022018,LongBeachCC,2018-10-02,17512.0,Resolution,19,45599
+LongBeachCC_09182018,LongBeachCC,2018-09-18,13002.0,Public Hearing,11,34729
+LongBeachCC_09112018,LongBeachCC,2018-09-11,7093.0,Agenda Item,9,17278
+LongBeachCC_09042018,LongBeachCC,2018-09-04,31320.0,Agenda Item,12,81873
+LongBeachCC_08212018,LongBeachCC,2018-08-21,25758.0,Public Hearing,11,72542
+LongBeachCC_08142018,LongBeachCC,2018-08-14,25826.0,Agenda Item,12,71158
+LongBeachCC_08072018,LongBeachCC,2018-08-07,15484.0,Public Hearing,10,40437
+LongBeachCC_07242018,LongBeachCC,2018-07-24,20743.0,Resolution,13,55919
+LongBeachCC_07172018,LongBeachCC,2018-07-17,2200.0,Contract,7,5406
+LongBeachCC_07102018,LongBeachCC,2018-07-10,8563.0,Agenda Item,11,20612
+LongBeachCC_06192018,LongBeachCC,2018-06-19,26421.0,Contract,13,70300
+LongBeachCC_06122018,LongBeachCC,2018-06-12,12067.0,Ordinance,11,31829
+LongBeachCC_05222018,LongBeachCC,2018-05-22,8638.0,Contract,12,20864
+LongBeachCC_05152018,LongBeachCC,2018-05-15,7957.0,Appointment,10,19811
+LongBeachCC_05082018,LongBeachCC,2018-05-08,4060.0,Agenda Item,9,9745
+LongBeachCC_05012018,LongBeachCC,2018-05-01,3385.0,Ordinance,8,8454
+LongBeachCC_04172018,LongBeachCC,2018-04-17,20359.0,Ordinance,10,53618
+LongBeachCC_04032018,LongBeachCC,2018-04-03,6540.0,Ordinance,5,15925
+LongBeachCC_03202018,LongBeachCC,2018-03-20,26223.0,Resolution,16,67756
+LongBeachCC_03132018,LongBeachCC,2018-03-13,26778.0,Resolution,10,69147
+LongBeachCC_03062018,LongBeachCC,2018-03-06,25963.0,Public Hearing,12,70220
+LongBeachCC_02202018,LongBeachCC,2018-02-20,24171.0,Public Hearing,9,65245
+LongBeachCC_02132018,LongBeachCC,2018-02-13,5537.0,Ordinance,6,14098
+LongBeachCC_02062018,LongBeachCC,2018-02-06,11463.0,Contract,12,31720
+LongBeachCC_01232018,LongBeachCC,2018-01-23,4285.0,ABC License,9,11240
+LongBeachCC_01162018,LongBeachCC,2018-01-16,23923.0,Resolution,11,60027
+LongBeachCC_01092018,LongBeachCC,2018-01-09,3257.0,Resolution,7,8661
+LongBeachCC_12192017,LongBeachCC,2017-12-19,10174.0,Public Hearing,10,26701
+LongBeachCC_12122017,LongBeachCC,2017-12-12,15751.0,Resolution,11,40497
+LongBeachCC_12052017,LongBeachCC,2017-12-05,16453.0,Resolution,11,43710
+LongBeachCC_11142017,LongBeachCC,2017-11-14,19119.0,Resolution,14,50606
+LongBeachCC_11072017,LongBeachCC,2017-11-07,10812.0,Resolution,7,29084
+LongBeachCC_10242017,LongBeachCC,2017-10-24,7490.0,Resolution,16,18735
+LongBeachCC_10172017,LongBeachCC,2017-10-17,19450.0,Resolution,12,52342
+LongBeachCC_10102017,LongBeachCC,2017-10-10,20592.0,Resolution,11,53948
+LongBeachCC_10032017,LongBeachCC,2017-10-03,12284.0,Ordinance,9,32300
+LongBeachCC_09192017,LongBeachCC,2017-09-19,29344.0,Resolution,15,74587
+LongBeachCC_09122017,LongBeachCC,2017-09-12,6878.0,Contract,9,18526
+LongBeachCC_09052017,LongBeachCC,2017-09-05,9413.0,Public Hearing,7,24067
+LongBeachCC_08222017,LongBeachCC,2017-08-22,14947.0,Public Hearing,13,39875
+LongBeachCC_08152017,LongBeachCC,2017-08-15,18074.0,Agenda Item,9,48506
+LongBeachCC_08082017,LongBeachCC,2017-08-08,22128.0,Contract,12,58900
+LongBeachCC_07182017,LongBeachCC,2017-07-18,18331.0,Appointment,13,47560
+LongBeachCC_07112017,LongBeachCC,2017-07-11,11588.0,Contract,12,31760
+LongBeachCC_06202017,LongBeachCC,2017-06-20,17956.0,Agenda Item,13,47776
+LongBeachCC_06132017,LongBeachCC,2017-06-13,12765.0,Resolution,9,33525
+LongBeachCC_06062017,LongBeachCC,2017-06-06,5036.0,Resolution,9,13539
+LongBeachCC_05232017,LongBeachCC,2017-05-23,26078.0,Agenda Item,13,69168
+LongBeachCC_05162017,LongBeachCC,2017-05-16,21609.0,Agenda Item,11,56164
+LongBeachCC_05092017,LongBeachCC,2017-05-09,12601.0,Resolution,10,30267
+LongBeachCC_05022017,LongBeachCC,2017-05-02,19316.0,Contract,11,50515
+LongBeachCC_04182017,LongBeachCC,2017-04-18,18164.0,Agenda Item,13,47358
+LongBeachCC_04112017,LongBeachCC,2017-04-11,4362.0,Ordinance,10,9232
+LongBeachCC_04042017,LongBeachCC,2017-04-04,13230.0,Resolution,10,35287
+LongBeachCC_03212017,LongBeachCC,2017-03-21,15360.0,Ordinance,13,39107
+LongBeachCC_03142017,LongBeachCC,2017-03-14,3863.0,Resolution,10,10309
+LongBeachCC_03072017,LongBeachCC,2017-03-07,10282.0,Ordinance,11,28034
+LongBeachCC_02212017,LongBeachCC,2017-02-21,19862.0,Contract,14,51309
+LongBeachCC_02142017,LongBeachCC,2017-02-14,10505.0,Agenda Item,13,25661
+LongBeachCC_02072017,LongBeachCC,2017-02-07,22650.0,Agenda Item,15,57585
+LongBeachCC_01242017,LongBeachCC,2017-01-24,17036.0,Agenda Item,13,44600
+LongBeachCC_01172017,LongBeachCC,2017-01-17,8979.0,Agenda Item,12,23273
+LongBeachCC_01102017,LongBeachCC,2017-01-10,1515.0,Contract,6,3700
+LongBeachCC_12202016,LongBeachCC,2016-12-20,21156.0,Contract,11,58262
+LongBeachCC_12132016,LongBeachCC,2016-12-13,17831.0,Contract,15,43532
+LongBeachCC_12062016,LongBeachCC,2016-12-06,15680.0,Contract,12,40970
+LongBeachCC_11222016,LongBeachCC,2016-11-22,9659.0,Public Hearing,10,24130
+LongBeachCC_11152016,LongBeachCC,2016-11-15,10066.0,Ordinance,12,25266
+LongBeachCC_11012016,LongBeachCC,2016-11-01,10977.0,Contract,12,27346
+LongBeachCC_10182016,LongBeachCC,2016-10-18,6917.0,Agenda Item,10,16220
+LongBeachCC_10112016,LongBeachCC,2016-10-11,11126.0,Resolution,10,28911
+LongBeachCC_10042016,LongBeachCC,2016-10-04,23610.0,Agenda Item,13,63353
+LongBeachCC_09202016,LongBeachCC,2016-09-20,12848.0,Agenda Item,10,32946
+LongBeachCC_09132016,LongBeachCC,2016-09-13,14786.0,Agenda Item,13,36215
+LongBeachCC_09062016,LongBeachCC,2016-09-06,16112.0,Agenda Item,12,41289
+LongBeachCC_08232016,LongBeachCC,2016-08-23,10681.0,Agenda Item,12,27506
+LongBeachCC_08162016,LongBeachCC,2016-08-16,13388.0,Agenda Item,14,35441
+LongBeachCC_08092016,LongBeachCC,2016-08-09,18622.0,Agenda Item,13,49690
+LongBeachCC_08022016,LongBeachCC,2016-08-02,14904.0,Appointment,12,39137
+LongBeachCC_07192016,LongBeachCC,2016-07-19,11479.0,Agenda Item,13,27293
+LongBeachCC_07122016,LongBeachCC,2016-07-12,16589.0,Contract,18,40946
+LongBeachCC_07052016,LongBeachCC,2016-07-05,12729.0,Agenda Item,13,32899
+LongBeachCC_06212016,LongBeachCC,2016-06-21,18524.0,Contract,14,44843
+LongBeachCC_06142016,LongBeachCC,2016-06-14,11838.0,Agenda Item,11,30833
+LongBeachCC_05242016,LongBeachCC,2016-05-24,18422.0,Agenda Item,14,45032
+LongBeachCC_05172016,LongBeachCC,2016-05-17,17272.0,Agenda Item,11,34007
+LongBeachCC_05102016,LongBeachCC,2016-05-10,12960.0,Public Hearing,12,32242
+LongBeachCC_05032016,LongBeachCC,2016-05-03,15462.0,Agenda Item,10,37149
+LongBeachCC_04202016,LongBeachCC,2016-04-20,1388.0,Resolution,7,3183
+LongBeachCC_04192016,LongBeachCC,2016-04-19,9703.0,Agenda Item,11,23109
+LongBeachCC_04052016,LongBeachCC,2016-04-05,6396.0,Resolution,9,15864
+LongBeachCC_03222016,LongBeachCC,2016-03-22,13440.0,Agenda Item,12,31136
+LongBeachCC_03082016,LongBeachCC,2016-03-08,11888.0,Agenda Item,10,30056
+LongBeachCC_03012016,LongBeachCC,2016-03-01,9146.0,Contract,12,22017
+LongBeachCC_02232016,LongBeachCC,2016-02-23,4722.0,Agenda Item,8,11696
+LongBeachCC_02162016,LongBeachCC,2016-02-16,11672.0,Agenda Item,12,30049
+LongBeachCC_02092016,LongBeachCC,2016-02-09,4836.0,Agenda Item,12,11767
+LongBeachCC_02022016,LongBeachCC,2016-02-02,10721.0,Agenda Item,12,25363
+LongBeachCC_01262016,LongBeachCC,2016-01-26,12518.0,Agenda Item,12,32721
+LongBeachCC_01192016,LongBeachCC,2016-01-19,28202.0,Agenda Item,19,70430
+LongBeachCC_01052016,LongBeachCC,2016-01-05,9942.0,Resolution,10,25266
+LongBeachCC_12222015,LongBeachCC,2015-12-22,10142.0,Agenda Item,12,26409
+LongBeachCC_12152015,LongBeachCC,2015-12-15,18678.0,Ordinance,14,46978
+LongBeachCC_12082015,LongBeachCC,2015-12-08,21875.0,Agenda Item,15,53369
+LongBeachCC_12012015,LongBeachCC,2015-12-01,19643.0,Public Hearing,16,48937
+LongBeachCC_11172015,LongBeachCC,2015-11-17,16069.0,Agenda Item,14,39325
+LongBeachCC_11102015,LongBeachCC,2015-11-10,20468.0,Agenda Item,17,49605
+LongBeachCC_11032015,LongBeachCC,2015-11-03,6727.0,Contract,9,16283
+LongBeachCC_10202015,LongBeachCC,2015-10-20,11900.0,Agenda Item,13,28387
+LongBeachCC_10132015,LongBeachCC,2015-10-13,9014.0,Agenda Item,10,22145
+LongBeachCC_10062015,LongBeachCC,2015-10-06,14578.0,Resolution,13,37564
+LongBeachCC_09222015,LongBeachCC,2015-09-22,18188.0,Resolution,13,44376
+LongBeachCC_09152015,LongBeachCC,2015-09-15,11437.0,Agenda Item,11,28568
+LongBeachCC_09082015,LongBeachCC,2015-09-08,9428.0,Resolution,11,21999
+LongBeachCC_09012015,LongBeachCC,2015-09-01,22874.0,Emergency Ordinance,12,59343
+LongBeachCC_08182015,LongBeachCC,2015-08-18,18078.0,Agenda Item,14,46337
+LongBeachCC_08112015,LongBeachCC,2015-08-11,26908.0,Resolution,17,66455
+LongBeachCC_07212015,LongBeachCC,2015-07-21,16252.0,Resolution,13,41775
+LongBeachCC_07142015,LongBeachCC,2015-07-14,16670.0,Resolution,16,40735
+LongBeachCC_07072015,LongBeachCC,2015-07-07,14608.0,Ordinance,14,35249
+LongBeachCC_06232015,LongBeachCC,2015-06-23,16282.0,Agenda Item,17,41603
+LongBeachCC_06162015,LongBeachCC,2015-06-16,8886.0,Resolution,8,23828
+LongBeachCC_06092015,LongBeachCC,2015-06-09,10914.0,Ordinance,14,28013
+LongBeachCC_06022015,LongBeachCC,2015-06-02,18695.0,Resolution,13,48151
+LongBeachCC_05192015,LongBeachCC,2015-05-19,9109.0,Agenda Item,13,24353
+LongBeachCC_05122015,LongBeachCC,2015-05-12,9316.0,Public Hearing,12,23634
+LongBeachCC_05052015,LongBeachCC,2015-05-05,6383.0,Resolution,10,14516
+LongBeachCC_04212015,LongBeachCC,2015-04-21,14182.0,Agenda Item,10,32823
+LongBeachCC_04072015,LongBeachCC,2015-04-07,14572.0,Contract,16,37997
+LongBeachCC_03242015,LongBeachCC,2015-03-24,12857.0,Public Hearing,13,32083
+LongBeachCC_03172015,LongBeachCC,2015-03-17,12618.0,Public Hearing,14,31753
+LongBeachCC_03102015,LongBeachCC,2015-03-10,12110.0,Agenda Item,13,29520
+LongBeachCC_03032015,LongBeachCC,2015-03-03,14229.0,Resolution,14,36548
+LongBeachCC_02172015,LongBeachCC,2015-02-17,8303.0,Appointment,10,22102
+LongBeachCC_02102015,LongBeachCC,2015-02-10,4541.0,Contract,8,11302
+LongBeachCC_02032015,LongBeachCC,2015-02-03,13895.0,Ordinance,15,34981
+LongBeachCC_01202015,LongBeachCC,2015-01-20,8543.0,Agenda Item,9,19752
+LongBeachCC_01132015,LongBeachCC,2015-01-13,1971.0,Appointment,7,4484
+LongBeachCC_01062015,LongBeachCC,2015-01-06,10965.0,Ordinance,15,27551
+LongBeachCC_12162014,LongBeachCC,2014-12-16,14810.0,Agenda Item,12,39291
+LongBeachCC_12092014,LongBeachCC,2014-12-09,17148.0,Contract,13,42131
+LongBeachCC_12022014,LongBeachCC,2014-12-02,19977.0,Resolution,14,53587
+LongBeachCC_11182014,LongBeachCC,2014-11-18,17890.0,Public Hearing,13,46106
+LongBeachCC_11112014,LongBeachCC,2014-11-11,16253.0,Agenda Item,15,43398
+LongBeachCC_10212014,LongBeachCC,2014-10-21,23611.0,Ordinance,13,45034
+LongBeachCC_10142014,LongBeachCC,2014-10-14,8148.0,Agenda Item,11,20616
+LongBeachCC_10072014,LongBeachCC,2014-10-07,6924.0,Agenda Item,9,17392
+LongBeachCC_09232014,LongBeachCC,2014-09-23,6737.0,Public Hearing,8,17255
+LongBeachCC_09162014,LongBeachCC,2014-09-16,6854.0,Resolution,11,17054
+LongBeachCC_09092014,LongBeachCC,2014-09-09,7463.0,Appointment,11,19693
+LongBeachCC_09022014,LongBeachCC,2014-09-02,11608.0,Agenda Item,11,29462
+LongBeachCC_08192014,LongBeachCC,2014-08-19,21816.0,Resolution,15,53680
+LongBeachCC_08122014,LongBeachCC,2014-08-12,17254.0,Agenda Item,15,45715
+LongBeachCC_08052014,LongBeachCC,2014-08-05,10215.0,Agenda Item,10,26648
+LongBeachCC_07222014,LongBeachCC,2014-07-22,13321.0,Agenda Item,7,34888
+LongBeachCC_07012014,LongBeachCC,2014-07-01,10901.0,Contract,9,26859
+LongBeachCC_06172014,LongBeachCC,2014-06-17,3137.0,Contract,8,7356
+LongBeachCC_06102014,LongBeachCC,2014-06-10,7519.0,Ordinance,8,16080
+LongBeachCC_05202014,LongBeachCC,2014-05-20,7270.0,Appointment,13,17755
+LongBeachCC_05132014,LongBeachCC,2014-05-13,7325.0,Agenda Item,15,18285
+LongBeachCC_05062014,LongBeachCC,2014-05-06,13063.0,Contract,13,32227
+LongBeachCC_04222014,LongBeachCC,2014-04-22,5756.0,Contract,11,15027
+LongBeachCC_04152014,LongBeachCC,2014-04-15,11216.0,Agenda Item,10,27645
+LongBeachCC_04012014,LongBeachCC,2014-04-01,8171.0,Resolution,13,17410
+LongBeachCC_03182014,LongBeachCC,2014-03-18,3916.0,Contract,10,8734
+LongBeachCC_03112014,LongBeachCC,2014-03-11,5731.0,Public Hearing,8,13227
+LongBeachCC_03042014,LongBeachCC,2014-03-04,14690.0,Ordinance,12,37975
+LongBeachCC_02182014,LongBeachCC,2014-02-18,14646.0,ABC License,13,38234
+LongBeachCC_02112014,LongBeachCC,2014-02-11,13498.0,Public Hearing,13,34648
+LongBeachCC_02042014,LongBeachCC,2014-02-04,8812.0,Resolution,11,22813
+LongBeachCC_01212014,LongBeachCC,2014-01-21,5612.0,Public Hearing,12,13006
+LongBeachCC_01142014,LongBeachCC,2014-01-14,5567.0,Agenda Item,10,11906
+LongBeachCC_01072014,LongBeachCC,2014-01-07,21448.0,Resolution,12,55875
+SeattleCityCouncil_12142015,SeattleCityCouncil,2015-12-14,12436.0,Ordinance (Ord),10,31818
+SeattleCityCouncil_12072015,SeattleCityCouncil,2015-12-07,4853.0,Ordinance (Ord),6,12008
+SeattleCityCouncil_11162015,SeattleCityCouncil,2015-11-16,910.0,Ordinance (Ord),9,2073
+SeattleCityCouncil_11092015,SeattleCityCouncil,2015-11-09,4302.0,Ordinance (Ord),8,11015
+SeattleCityCouncil_10262015,SeattleCityCouncil,2015-10-26,1417.0,Resolution (Res),4,3493
+SeattleCityCouncil_10192015,SeattleCityCouncil,2015-10-19,3006.0,Resolution (Res),8,7207
+SeattleCityCouncil_10122015,SeattleCityCouncil,2015-10-12,3686.0,Resolution (Res),9,8232
+SeattleCityCouncil_09282015,SeattleCityCouncil,2015-09-28,6308.0,Resolution (Res),8,14401
+SeattleCityCouncil_09212015,SeattleCityCouncil,2015-09-21,6427.0,Ordinance (Ord),9,15345
+SeattleCityCouncil_09142015,SeattleCityCouncil,2015-09-14,2800.0,Ordinance (Ord),10,7078
+SeattleCityCouncil_09082015,SeattleCityCouncil,2015-09-08,5984.0,Ordinance (Ord),8,13873
+SeattleCityCouncil_08172015,SeattleCityCouncil,2015-08-17,5855.0,Resolution (Res),11,13950
+SeattleCityCouncil_08102015,SeattleCityCouncil,2015-08-10,6310.0,Ordinance (Ord),10,15483
+SeattleCityCouncil_07272015,SeattleCityCouncil,2015-07-27,2908.0,Resolution (Res),8,7124
+SeattleCityCouncil_07202015,SeattleCityCouncil,2015-07-20,3033.0,Ordinance (Ord),8,7026
+SeattleCityCouncil_07132015,SeattleCityCouncil,2015-07-13,4621.0,Clerk File (CF),10,10874
+SeattleCityCouncil_06292015,SeattleCityCouncil,2015-06-29,3627.0,Ordinance (Ord),7,9405
+SeattleCityCouncil_06222015,SeattleCityCouncil,2015-06-22,4390.0,Resolution (Res),8,8831
+SeattleCityCouncil_06152015,SeattleCityCouncil,2015-06-15,655.0,Ordinance (Ord),7,1417
+SeattleCityCouncil_06082015,SeattleCityCouncil,2015-06-08,2310.0,Resolution (Res),8,5347
+SeattleCityCouncil_05262015,SeattleCityCouncil,2015-05-26,2400.0,Ordinance (Ord),7,5984
+SeattleCityCouncil_05042015,SeattleCityCouncil,2015-05-04,3651.0,Resolution (Res),9,7432
+SeattleCityCouncil_04202015,SeattleCityCouncil,2015-04-20,3148.0,Ordinance (Ord),6,7348
+SeattleCityCouncil_04132015,SeattleCityCouncil,2015-04-13,4009.0,Ordinance (Ord),8,10257
+SeattleCityCouncil_04062015,SeattleCityCouncil,2015-04-06,3220.0,Resolution (Res),7,8421
+SeattleCityCouncil_03232015,SeattleCityCouncil,2015-03-23,3150.0,Ordinance (Ord),7,7874
+SeattleCityCouncil_03162015,SeattleCityCouncil,2015-03-16,1835.0,Ordinance (Ord),5,4637
+SeattleCityCouncil_03022015,SeattleCityCouncil,2015-03-02,2785.0,Ordinance (Ord),7,6738
+SeattleCityCouncil_12162016,SeattleCityCouncil,2016-12-16,5264.0,Resolution (Res),11,13181
+SeattleCityCouncil_12122016,SeattleCityCouncil,2016-12-12,6700.0,Ordinance (Ord),9,17022
+SeattleCityCouncil_11212016,SeattleCityCouncil,2016-11-21,6461.0,Ordinance (Ord),8,16188
+SeattleCityCouncil_11142016,SeattleCityCouncil,2016-11-14,1548.0,Ordinance (Ord),6,3907
+SeattleCityCouncil_10312016,SeattleCityCouncil,2016-10-31,1694.0,Ordinance (Ord),8,4029
+SeattleCityCouncil_10172016,SeattleCityCouncil,2016-10-17,8248.0,Resolution (Res),11,21340
+SeattleCityCouncil_10102016,SeattleCityCouncil,2016-10-10,3031.0,Ordinance (Ord),8,7573
+SeattleCityCouncil_10032016,SeattleCityCouncil,2016-10-03,4598.0,Ordinance (Ord),7,11763
+SeattleCityCouncil_09262016,SeattleCityCouncil,2016-09-26,9761.0,Ordinance (Ord),11,22289
+SeattleCityCouncil_09192016,SeattleCityCouncil,2016-09-19,5110.0,Ordinance (Ord),10,12594
+SeattleCityCouncil_09122016,SeattleCityCouncil,2016-09-12,8142.0,Ordinance (Ord),12,20699
+SeattleCityCouncil_09062016,SeattleCityCouncil,2016-09-06,7365.0,Ordinance (Ord),8,19219
+SeattleCityCouncil_08152016,SeattleCityCouncil,2016-08-15,10360.0,Resolution (Res),14,25401
+SeattleCityCouncil_08082016,SeattleCityCouncil,2016-08-08,6337.0,Resolution (Res),8,15989
+SeattleCityCouncil_08012016,SeattleCityCouncil,2016-08-01,3397.0,Resolution (Res),7,8413
+SeattleCityCouncil_07252016,SeattleCityCouncil,2016-07-25,7676.0,Resolution (Res),11,19444
+SeattleCityCouncil_07182016,SeattleCityCouncil,2016-07-18,4322.0,Ordinance (Ord),8,11097
+SeattleCityCouncil_06272016,SeattleCityCouncil,2016-06-27,3631.0,Resolution (Res),8,9209
+SeattleCityCouncil_06202016,SeattleCityCouncil,2016-06-20,2421.0,Council Bill (CB),8,5947
+SeattleCityCouncil_06132016,SeattleCityCouncil,2016-06-13,4537.0,Ordinance (Ord),9,10947
+SeattleCityCouncil_06062016,SeattleCityCouncil,2016-06-06,5266.0,Ordinance (Ord),9,13162
+SeattleCityCouncil_05312016,SeattleCityCouncil,2016-05-31,6274.0,Ordinance (Ord),8,16352
+SeattleCityCouncil_05232016,SeattleCityCouncil,2016-05-23,3109.0,Ordinance (Ord),8,7676
+SeattleCityCouncil_05162016,SeattleCityCouncil,2016-05-16,2039.0,Clerk File (CF),6,5124
+SeattleCityCouncil_05092016,SeattleCityCouncil,2016-05-09,1394.0,Resolution (Res),6,3739
+SeattleCityCouncil_05022016,SeattleCityCouncil,2016-05-02,9062.0,Ordinance (Ord),9,23634
+SeattleCityCouncil_04252016,SeattleCityCouncil,2016-04-25,3045.0,Ordinance (Ord),6,7755
+SeattleCityCouncil_04182016,SeattleCityCouncil,2016-04-18,963.0,Ordinance (Ord),7,2347
+SeattleCityCouncil_04112016,SeattleCityCouncil,2016-04-11,2475.0,Ordinance (Ord),8,6361
+SeattleCityCouncil_04042016,SeattleCityCouncil,2016-04-04,868.0,Ordinance (Ord),8,2053
+SeattleCityCouncil_03282016,SeattleCityCouncil,2016-03-28,2082.0,Ordinance (Ord),6,5059
+SeattleCityCouncil_03142016,SeattleCityCouncil,2016-03-14,6272.0,Ordinance (Ord),10,15823
+SeattleCityCouncil_03072016,SeattleCityCouncil,2016-03-07,2455.0,Ordinance (Ord),9,6018
+SeattleCityCouncil_02292016,SeattleCityCouncil,2016-02-29,2486.0,Ordinance (Ord),9,5887
+SeattleCityCouncil_02222016,SeattleCityCouncil,2016-02-22,2576.0,Ordinance (Ord),8,6089
+SeattleCityCouncil_02162016,SeattleCityCouncil,2016-02-16,8254.0,Ordinance (Ord),9,18352
+SeattleCityCouncil_02082016,SeattleCityCouncil,2016-02-08,3214.0,Ordinance (Ord),10,7865
+SeattleCityCouncil_02012016,SeattleCityCouncil,2016-02-01,2705.0,Resolution (Res),7,7125
+SeattleCityCouncil_01112016,SeattleCityCouncil,2016-01-11,7438.0,Clerk File (CF),9,18793
+SeattleCityCouncil_12112017,SeattleCityCouncil,2017-12-11,8760.0,Ordinance (Ord),10,23454
+SeattleCityCouncil_12042017,SeattleCityCouncil,2017-12-04,8479.0,Ordinance (Ord),9,23581
+SeattleCityCouncil_11272017,SeattleCityCouncil,2017-11-27,1918.0,Ordinance (Ord),7,5087
+SeattleCityCouncil_11202017,SeattleCityCouncil,2017-11-20,10595.0,Ordinance (Ord),11,27161
+SeattleCityCouncil_11132017,SeattleCityCouncil,2017-11-13,8728.0,Ordinance (Ord),10,21948
+SeattleCityCouncil_10232017,SeattleCityCouncil,2017-10-23,2170.0,Resolution (Res),5,5380
+SeattleCityCouncil_10022017,SeattleCityCouncil,2017-10-02,6065.0,Resolution (Res),8,16335
+SeattleCityCouncil_09252017,SeattleCityCouncil,2017-09-25,6513.0,Ordinance (Ord),8,15707
+SeattleCityCouncil_09182017,SeattleCityCouncil,2017-09-18,6241.0,Resolution (Res),10,14762
+SeattleCityCouncil_09112017,SeattleCityCouncil,2017-09-11,4863.0,Ordinance (Ord),7,12321
+SeattleCityCouncil_09052017,SeattleCityCouncil,2017-09-05,3889.0,Resolution (Res),7,9758
+SeattleCityCouncil_08142017,SeattleCityCouncil,2017-08-14,6041.0,Resolution (Res),7,16161
+SeattleCityCouncil_08072017,SeattleCityCouncil,2017-08-07,5265.0,Ordinance (Ord),8,13264
+SeattleCityCouncil_07312017,SeattleCityCouncil,2017-07-31,6335.0,Ordinance (Ord),8,16810
+SeattleCityCouncil_07242017,SeattleCityCouncil,2017-07-24,4564.0,Ordinance (Ord),8,11850
+SeattleCityCouncil_07172017,SeattleCityCouncil,2017-07-17,3161.0,Resolution (Res),5,8175
+SeattleCityCouncil_07102017,SeattleCityCouncil,2017-07-10,6357.0,Ordinance (Ord),10,15865
+SeattleCityCouncil_06192017,SeattleCityCouncil,2017-06-19,3338.0,Ordinance (Ord),7,8662
+SeattleCityCouncil_06122017,SeattleCityCouncil,2017-06-12,5076.0,Resolution (Res),9,12872
+SeattleCityCouncil_06052017,SeattleCityCouncil,2017-06-05,6018.0,Ordinance (Ord),10,15679
+SeattleCityCouncil_05302017,SeattleCityCouncil,2017-05-30,5210.0,Ordinance (Ord),13,13053
+SeattleCityCouncil_05222017,SeattleCityCouncil,2017-05-22,8349.0,Ordinance (Ord),11,19666
+SeattleCityCouncil_05152017,SeattleCityCouncil,2017-05-15,1917.0,Ordinance (Ord),7,4545
+SeattleCityCouncil_04172017,SeattleCityCouncil,2017-04-17,5437.0,Ordinance (Ord),9,13874
+SeattleCityCouncil_04102017,SeattleCityCouncil,2017-04-10,5524.0,Ordinance (Ord),11,14538
+SeattleCityCouncil_04032017,SeattleCityCouncil,2017-04-03,5116.0,Resolution (Res),9,12473
+SeattleCityCouncil_03272017,SeattleCityCouncil,2017-03-27,5567.0,Ordinance (Ord),9,13766
+SeattleCityCouncil_03202017,SeattleCityCouncil,2017-03-20,2360.0,Ordinance (Ord),7,6347
+SeattleCityCouncil_03062017,SeattleCityCouncil,2017-03-06,4828.0,Ordinance (Ord),12,12809
+SeattleCityCouncil_02272017,SeattleCityCouncil,2017-02-27,4391.0,Ordinance (Ord),8,11252
+SeattleCityCouncil_02212017,SeattleCityCouncil,2017-02-21,9305.0,Ordinance (Ord),10,25361
+SeattleCityCouncil_02132017,SeattleCityCouncil,2017-02-13,1721.0,Ordinance (Ord),7,4166
+SeattleCityCouncil_02072017,SeattleCityCouncil,2017-02-07,6672.0,Ordinance (Ord),10,15684
+SeattleCityCouncil_01172017,SeattleCityCouncil,2017-01-17,2487.0,Ordinance (Ord),6,6019
+SeattleCityCouncil_01092017,SeattleCityCouncil,2017-01-09,4713.0,Ordinance (Ord),8,12184
+SeattleCityCouncil_01032017,SeattleCityCouncil,2017-01-03,1218.0,Ordinance (Ord),8,2806
+SeattleCityCouncil_12172018,SeattleCityCouncil,2018-12-17,4357.0,Ordinance (Ord),7,10751
+SeattleCityCouncil_12102018,SeattleCityCouncil,2018-12-10,4645.0,Ordinance (Ord),7,12093
+SeattleCityCouncil_12032018,SeattleCityCouncil,2018-12-03,1766.0,Resolution (Res),6,4568
+SeattleCityCouncil_11262018,SeattleCityCouncil,2018-11-26,901.0,Resolution (Res),6,2193
+SeattleCityCouncil_11192018,SeattleCityCouncil,2018-11-19,4557.0,Ordinance (Ord),7,11912
+SeattleCityCouncil_11132018,SeattleCityCouncil,2018-11-13,10133.0,Ordinance (Ord),7,26040
+SeattleCityCouncil_10292018,SeattleCityCouncil,2018-10-29,4165.0,Resolution (Res),9,10437
+SeattleCityCouncil_10222018,SeattleCityCouncil,2018-10-22,1363.0,Clerk File (CF),7,3474
+SeattleCityCouncil_10012018,SeattleCityCouncil,2018-10-01,5833.0,Ordinance (Ord),11,16078
+SeattleCityCouncil_09242018,SeattleCityCouncil,2018-09-24,7976.0,Council Budget Action (CBA),10,21566
+SeattleCityCouncil_09172018,SeattleCityCouncil,2018-09-17,6100.0,Ordinance (Ord),10,15535
+SeattleCityCouncil_09102018,SeattleCityCouncil,2018-09-10,1791.0,Ordinance (Ord),8,4606
+SeattleCityCouncil_09042018,SeattleCityCouncil,2018-09-04,2122.0,Clerk File (CF),8,5168
+SeattleCityCouncil_08132018,SeattleCityCouncil,2018-08-13,9802.0,Resolution (Res),9,25557
+SeattleCityCouncil_08062018,SeattleCityCouncil,2018-08-06,8819.0,Resolution (Res),10,24152
+SeattleCityCouncil_07302018,SeattleCityCouncil,2018-07-30,7045.0,Ordinance (Ord),9,18895
+SeattleCityCouncil_07232018,SeattleCityCouncil,2018-07-23,6008.0,Resolution (Res),11,15398
+SeattleCityCouncil_07092018,SeattleCityCouncil,2018-07-09,6237.0,Ordinance (Ord),7,16701
+SeattleCityCouncil_06252018,SeattleCityCouncil,2018-06-25,6122.0,Ordinance (Ord),7,16016
+SeattleCityCouncil_06182018,SeattleCityCouncil,2018-06-18,6145.0,Ordinance (Ord),9,16603
+SeattleCityCouncil_06112018,SeattleCityCouncil,2018-06-11,2509.0,Ordinance (Ord),7,6588
+SeattleCityCouncil_06042018,SeattleCityCouncil,2018-06-04,1020.0,Ordinance (Ord),9,2553
+SeattleCityCouncil_05292018,SeattleCityCouncil,2018-05-29,2936.0,Ordinance (Ord),8,7750
+SeattleCityCouncil_05212018,SeattleCityCouncil,2018-05-21,7413.0,Ordinance (Ord),9,19586
+SeattleCityCouncil_05142018,SeattleCityCouncil,2018-05-14,10052.0,Ordinance (Ord),8,26680
+SeattleCityCouncil_05072018,SeattleCityCouncil,2018-05-07,3879.0,Ordinance (Ord),8,10602
+SeattleCityCouncil_04302018,SeattleCityCouncil,2018-04-30,5831.0,Resolution (Res),8,15174
+SeattleCityCouncil_04232018,SeattleCityCouncil,2018-04-23,3046.0,Clerk File (CF),8,8187
+SeattleCityCouncil_04092018,SeattleCityCouncil,2018-04-09,5218.0,Resolution (Res),8,13874
+SeattleCityCouncil_04022018,SeattleCityCouncil,2018-04-02,6702.0,Ordinance (Ord),8,17763
+SeattleCityCouncil_03262018,SeattleCityCouncil,2018-03-26,4508.0,Ordinance (Ord),11,10836
+SeattleCityCouncil_03192018,SeattleCityCouncil,2018-03-19,4412.0,Ordinance (Ord),7,11498
+SeattleCityCouncil_03122018,SeattleCityCouncil,2018-03-12,3705.0,Resolution (Res),6,9848
+SeattleCityCouncil_03052018,SeattleCityCouncil,2018-03-05,1149.0,Ordinance (Ord),5,2772
+SeattleCityCouncil_02262018,SeattleCityCouncil,2018-02-26,4989.0,Resolution (Res),10,12418
+SeattleCityCouncil_02202018,SeattleCityCouncil,2018-02-20,5334.0,Ordinance (Ord),8,13262
+SeattleCityCouncil_02122018,SeattleCityCouncil,2018-02-12,3467.0,Ordinance (Ord),8,8602
+SeattleCityCouncil_02052018,SeattleCityCouncil,2018-02-05,1721.0,Ordinance (Ord),6,4511
+SeattleCityCouncil_01292018,SeattleCityCouncil,2018-01-29,7165.0,Resolution (Res),11,18719
+SeattleCityCouncil_01222018,SeattleCityCouncil,2018-01-22,1999.0,Ordinance (Ord),4,5111
+SeattleCityCouncil_01162018,SeattleCityCouncil,2018-01-16,2874.0,Ordinance (Ord),6,7135
+SeattleCityCouncil_01022018,SeattleCityCouncil,2018-01-02,2802.0,Ordinance (Ord),6,6916
+SeattleCityCouncil_11252019,SeattleCityCouncil,2019-11-25,11159.0,Resolution (Res),8,29338
+SeattleCityCouncil_11182019,SeattleCityCouncil,2019-11-18,1366.0,Clerk File (CF),6,3416
+SeattleCityCouncil_10212019,SeattleCityCouncil,2019-10-21,4282.0,Resolution (Res),7,10333
+SeattleCityCouncil_10142019,SeattleCityCouncil,2019-10-14,966.0,Clerk File (CF),6,2348
+SeattleCityCouncil_10072019,SeattleCityCouncil,2019-10-07,7448.0,Ordinance (Ord),9,19056
+SeattleCityCouncil_09302019,SeattleCityCouncil,2019-09-30,6585.0,Resolution (Res),8,17046
+SeattleCityCouncil_09232019,SeattleCityCouncil,2019-09-23,13779.0,Ordinance (Ord),9,35487
+SeattleCityCouncil_09162019,SeattleCityCouncil,2019-09-16,11607.0,Ordinance (Ord),10,30110
+SeattleCityCouncil_09092019,SeattleCityCouncil,2019-09-09,3507.0,Ordinance (Ord),8,9134
+SeattleCityCouncil_09032019,SeattleCityCouncil,2019-09-03,6364.0,Ordinance (Ord),8,16996
+SeattleCityCouncil_08052019,SeattleCityCouncil,2019-08-05,3222.0,Ordinance (Ord),6,8254
+SeattleCityCouncil_07292019,SeattleCityCouncil,2019-07-29,317.0,Ordinance (Ord),4,702
+SeattleCityCouncil_07222019,SeattleCityCouncil,2019-07-22,7458.0,Ordinance (Ord),10,20559
+SeattleCityCouncil_07152019,SeattleCityCouncil,2019-07-15,3648.0,Ordinance (Ord),5,9894
+SeattleCityCouncil_07082019,SeattleCityCouncil,2019-07-08,1033.0,Ordinance (Ord),8,2819
+SeattleCityCouncil_07012019,SeattleCityCouncil,2019-07-01,8866.0,Ordinance (Ord),11,23805
+SeattleCityCouncil_06242019,SeattleCityCouncil,2019-06-24,5999.0,Ordinance (Ord),9,15112
+SeattleCityCouncil_06172019,SeattleCityCouncil,2019-06-17,805.0,Ordinance (Ord),7,1963
+SeattleCityCouncil_06102019,SeattleCityCouncil,2019-06-10,7231.0,Ordinance (Ord),7,19698
+SeattleCityCouncil_06032019,SeattleCityCouncil,2019-06-03,1983.0,Ordinance (Ord),6,5233
+SeattleCityCouncil_05282019,SeattleCityCouncil,2019-05-28,3311.0,Resolution (Res),8,8467
+SeattleCityCouncil_05202019,SeattleCityCouncil,2019-05-20,3802.0,Clerk File (CF),7,8829
+SeattleCityCouncil_05132019,SeattleCityCouncil,2019-05-13,2282.0,Ordinance (Ord),5,5659
+SeattleCityCouncil_04292019,SeattleCityCouncil,2019-04-29,2770.0,Ordinance (Ord),6,7063
+SeattleCityCouncil_04222019,SeattleCityCouncil,2019-04-22,7966.0,Resolution (Res),8,20444
+SeattleCityCouncil_04152019,SeattleCityCouncil,2019-04-15,2283.0,Ordinance (Ord),7,5375
+SeattleCityCouncil_04012019,SeattleCityCouncil,2019-04-01,3806.0,Ordinance (Ord),8,10296
+SeattleCityCouncil_03252019,SeattleCityCouncil,2019-03-25,2482.0,Resolution (Res),7,6792
+SeattleCityCouncil_03182019,SeattleCityCouncil,2019-03-18,10781.0,Ordinance (Ord),10,28082
+SeattleCityCouncil_03112019,SeattleCityCouncil,2019-03-11,1763.0,Ordinance (Ord),6,4265
+SeattleCityCouncil_03042019,SeattleCityCouncil,2019-03-04,9119.0,Resolution (Res),11,23900
+SeattleCityCouncil_02252019,SeattleCityCouncil,2019-02-25,1961.0,Resolution (Res),4,5123
+SeattleCityCouncil_02192019,SeattleCityCouncil,2019-02-19,3100.0,Clerk File (CF),6,8235
+SeattleCityCouncil_02042019,SeattleCityCouncil,2019-02-04,3514.0,Ordinance (Ord),8,9475
+SeattleCityCouncil_01282019,SeattleCityCouncil,2019-01-28,7547.0,Ordinance (Ord),8,20032
+SeattleCityCouncil_01142019,SeattleCityCouncil,2019-01-14,2800.0,Ordinance (Ord),7,6979
+SeattleCityCouncil_01072019,SeattleCityCouncil,2019-01-07,1841.0,Ordinance (Ord),6,4833
+SeattleCityCouncil_12142020,SeattleCityCouncil,2020-12-14,11961.0,Ordinance (Ord),4,29538
+SeattleCityCouncil_12072020,SeattleCityCouncil,2020-12-07,3366.0,Ordinance (Ord),6,7815
+SeattleCityCouncil_11302020,SeattleCityCouncil,2020-11-30,1524.0,Ordinance (Ord),4,3786
+SeattleCityCouncil_11232020,SeattleCityCouncil,2020-11-23,10693.0,Ordinance (Ord),7,26001
+SeattleCityCouncil_11092020,SeattleCityCouncil,2020-11-09,1937.0,Ordinance (Ord),4,4424
+SeattleCityCouncil_11022020,SeattleCityCouncil,2020-11-02,3107.0,Ordinance (Ord),5,7741
+SeattleCityCouncil_10262020,SeattleCityCouncil,2020-10-26,3230.0,Ordinance (Ord),5,7849
+SeattleCityCouncil_10192020,SeattleCityCouncil,2020-10-19,2536.0,Ordinance (Ord),4,5402
+SeattleCityCouncil_10052020,SeattleCityCouncil,2020-10-05,4240.0,Ordinance (Ord),5,10379
+SeattleCityCouncil_09292020,SeattleCityCouncil,2020-09-29,7948.0,Ordinance (Ord),5,18797
+SeattleCityCouncil_09212020,SeattleCityCouncil,2020-09-21,7660.0,Ordinance (Ord),6,17849
+SeattleCityCouncil_09142020,SeattleCityCouncil,2020-09-14,2692.0,Ordinance (Ord),5,6645
+SeattleCityCouncil_09082020,SeattleCityCouncil,2020-09-08,10515.0,Clerk File (CF),7,24817
+SeattleCityCouncil_08172020,SeattleCityCouncil,2020-08-17,8348.0,Ordinance (Ord),5,19813
+SeattleCityCouncil_08102020,SeattleCityCouncil,2020-08-10,12524.0,Ordinance (Ord),6,31108
+SeattleCityCouncil_07272020,SeattleCityCouncil,2020-07-27,11568.0,Ordinance (Ord),6,28070
+SeattleCityCouncil_07202020,SeattleCityCouncil,2020-07-20,8738.0,Ordinance (Ord),6,21899
+SeattleCityCouncil_07132020,SeattleCityCouncil,2020-07-13,3267.0,Ordinance (Ord),6,7540
+SeattleCityCouncil_07062020,SeattleCityCouncil,2020-07-06,11107.0,Ordinance (Ord),5,28929
+SeattleCityCouncil_06222020,SeattleCityCouncil,2020-06-22,5444.0,Ordinance (Ord),5,13820
+SeattleCityCouncil_06152020,SeattleCityCouncil,2020-06-15,11384.0,Ordinance (Ord),6,28874
+SeattleCityCouncil_06082020,SeattleCityCouncil,2020-06-08,9162.0,Ordinance (Ord),5,22530
+SeattleCityCouncil_06012020,SeattleCityCouncil,2020-06-01,7265.0,Ordinance (Ord),4,18091
+SeattleCityCouncil_05262020,SeattleCityCouncil,2020-05-26,3738.0,Ordinance (Ord),5,8764
+SeattleCityCouncil_05182020,SeattleCityCouncil,2020-05-18,6229.0,Ordinance (Ord),4,15736
+SeattleCityCouncil_05112020,SeattleCityCouncil,2020-05-11,6126.0,Ordinance (Ord),4,14835
+SeattleCityCouncil_05042020,SeattleCityCouncil,2020-05-04,11306.0,Ordinance (Ord),5,27373
+SeattleCityCouncil_04272020,SeattleCityCouncil,2020-04-27,9107.0,Council Bill (CB),5,21980
+SeattleCityCouncil_04202020,SeattleCityCouncil,2020-04-20,8458.0,Council Bill (CB),6,20535
+SeattleCityCouncil_04132020,SeattleCityCouncil,2020-04-13,2552.0,Ordinance (Ord),4,5766
+SeattleCityCouncil_04062020,SeattleCityCouncil,2020-04-06,3496.0,Resolution (Res),4,8346
+SeattleCityCouncil_03302020,SeattleCityCouncil,2020-03-30,6018.0,Ordinance (Ord),5,13957
+SeattleCityCouncil_03232020,SeattleCityCouncil,2020-03-23,2400.0,Ordinance (Ord),4,5632
+SeattleCityCouncil_03192020,SeattleCityCouncil,2020-03-19,2623.0,Ordinance (Ord),3,6121
+SeattleCityCouncil_03162020,SeattleCityCouncil,2020-03-16,9581.0,Ordinance (Ord),4,22750
+SeattleCityCouncil_03092020,SeattleCityCouncil,2020-03-09,6922.0,Ordinance (Ord),5,16138
+SeattleCityCouncil_03022020,SeattleCityCouncil,2020-03-02,3402.0,Ordinance (Ord),8,8967
+SeattleCityCouncil_02242020,SeattleCityCouncil,2020-02-24,3137.0,Resolution (Res),9,7374
+SeattleCityCouncil_02182020,SeattleCityCouncil,2020-02-18,7883.0,Resolution (Res),10,20244
+SeattleCityCouncil_02102020,SeattleCityCouncil,2020-02-10,7904.0,Ordinance (Ord),9,21662
+SeattleCityCouncil_02032020,SeattleCityCouncil,2020-02-03,6299.0,Resolution (Res),9,16139
+SeattleCityCouncil_01212020,SeattleCityCouncil,2020-01-21,7263.0,Resolution (Res),9,18254
+SeattleCityCouncil_01132020,SeattleCityCouncil,2020-01-13,2936.0,Ordinance (Ord),5,6821
+SeattleCityCouncil_01062020,SeattleCityCouncil,2020-01-06,6325.0,Ordinance (Ord),9,14577
+SeattleCityCouncil_07262022,SeattleCityCouncil,2022-07-26,6201.0,Ordinance (Ord),5,14965
+SeattleCityCouncil_07192022,SeattleCityCouncil,2022-07-19,5339.0,Resolution (Res),5,13052
+SeattleCityCouncil_07142022,SeattleCityCouncil,2022-07-14,5662.0,Clerk File (CF),5,13660
+SeattleCityCouncil_07122022,SeattleCityCouncil,2022-07-12,4060.0,Clerk File (CF),5,10073
+SeattleCityCouncil_07052022,SeattleCityCouncil,2022-07-05,5296.0,Council Bill (CB),5,12516
+SeattleCityCouncil_06282022,SeattleCityCouncil,2022-06-28,4778.0,Clerk File (CF),5,11096
+SeattleCityCouncil_06212022,SeattleCityCouncil,2022-06-21,4134.0,Ordinance (Ord),7,9836
+SeattleCityCouncil_06142022,SeattleCityCouncil,2022-06-14,3661.0,Ordinance (Ord),4,8374
+SeattleCityCouncil_06072022,SeattleCityCouncil,2022-06-07,2595.0,Ordinance (Ord),5,5885
+SeattleCityCouncil_05312022,SeattleCityCouncil,2022-05-31,7356.0,Council Bill (CB),4,18577
+SeattleCityCouncil_05242022,SeattleCityCouncil,2022-05-24,8947.0,Ordinance (Ord),3,22088
+SeattleCityCouncil_05172022,SeattleCityCouncil,2022-05-17,2191.0,Ordinance (Ord),4,5152
+SeattleCityCouncil_05102022,SeattleCityCouncil,2022-05-10,4407.0,Resolution (Res),6,11087
+SeattleCityCouncil_05032022,SeattleCityCouncil,2022-05-03,4470.0,Ordinance (Ord),5,10490
+SeattleCityCouncil_04262022,SeattleCityCouncil,2022-04-26,3930.0,Ordinance (Ord),7,9707
+SeattleCityCouncil_04122022,SeattleCityCouncil,2022-04-12,1932.0,Resolution (Res),4,4415
+SeattleCityCouncil_03292022,SeattleCityCouncil,2022-03-29,3307.0,Ordinance (Ord),6,8112
+SeattleCityCouncil_03222022,SeattleCityCouncil,2022-03-22,819.0,Ordinance (Ord),7,2060
+SeattleCityCouncil_03152022,SeattleCityCouncil,2022-03-15,1916.0,Ordinance (Ord),6,4794
+SeattleCityCouncil_03012022,SeattleCityCouncil,2022-03-01,4055.0,Ordinance (Ord),6,10390
+SeattleCityCouncil_02222022,SeattleCityCouncil,2022-02-22,7999.0,Ordinance (Ord),6,20907
+SeattleCityCouncil_02152022,SeattleCityCouncil,2022-02-15,4077.0,Ordinance (Ord),4,9871
+SeattleCityCouncil_02082022,SeattleCityCouncil,2022-02-08,4885.0,Resolution (Res),6,12647
+SeattleCityCouncil_02012022,SeattleCityCouncil,2022-02-01,2273.0,Ordinance (Ord),5,5702
+SeattleCityCouncil_01252022,SeattleCityCouncil,2022-01-25,3638.0,Council Bill (CB),6,9090
+SeattleCityCouncil_01042022,SeattleCityCouncil,2022-01-04,4493.0,Ordinance (Ord),7,10882
+SeattleCityCouncil_12132021,SeattleCityCouncil,2021-12-13,13296.0,Ordinance (Ord),7,32739
+SeattleCityCouncil_12062021,SeattleCityCouncil,2021-12-06,2532.0,Ordinance (Ord),4,5425
+SeattleCityCouncil_11292021,SeattleCityCouncil,2021-11-29,1106.0,Ordinance (Ord),3,2706
+SeattleCityCouncil_11222021,SeattleCityCouncil,2021-11-22,10014.0,Ordinance (Ord),7,23496
+SeattleCityCouncil_11152021,SeattleCityCouncil,2021-11-15,3897.0,Clerk File (CF),6,10144
+SeattleCityCouncil_10112021,SeattleCityCouncil,2021-10-11,2294.0,Ordinance (Ord),4,5994
+SeattleCityCouncil_10042021,SeattleCityCouncil,2021-10-04,7547.0,Ordinance (Ord),4,18805
+SeattleCityCouncil_09272021,SeattleCityCouncil,2021-09-27,11302.0,Ordinance (Ord),6,29033
+SeattleCityCouncil_09202021,SeattleCityCouncil,2021-09-20,14266.0,Ordinance (Ord),7,34308
+SeattleCityCouncil_09132021,SeattleCityCouncil,2021-09-13,12643.0,Ordinance (Ord),7,31014
+SeattleCityCouncil_08162021,SeattleCityCouncil,2021-08-16,6397.0,Resolution (Res),6,15533
+SeattleCityCouncil_08092021,SeattleCityCouncil,2021-08-09,8012.0,Ordinance (Ord),6,19426
+SeattleCityCouncil_08022021,SeattleCityCouncil,2021-08-02,5823.0,Clerk File (CF),7,13663
+SeattleCityCouncil_07262021,SeattleCityCouncil,2021-07-26,7016.0,Ordinance (Ord),5,16201
+SeattleCityCouncil_07192021,SeattleCityCouncil,2021-07-19,4623.0,Ordinance (Ord),4,12066
+SeattleCityCouncil_07122021,SeattleCityCouncil,2021-07-12,4334.0,Resolution (Res),4,10253
+SeattleCityCouncil_06282021,SeattleCityCouncil,2021-06-28,6429.0,Ordinance (Ord),7,15245
+SeattleCityCouncil_06212021,SeattleCityCouncil,2021-06-21,6014.0,Ordinance (Ord),7,15663
+SeattleCityCouncil_06142021,SeattleCityCouncil,2021-06-14,5902.0,Ordinance (Ord),5,14497
+SeattleCityCouncil_06072021,SeattleCityCouncil,2021-06-07,9609.0,Ordinance (Ord),6,25411
+SeattleCityCouncil_06012021,SeattleCityCouncil,2021-06-01,11662.0,Ordinance (Ord),6,29963
+SeattleCityCouncil_05242021,SeattleCityCouncil,2021-05-24,9027.0,Ordinance (Ord),6,21621
+SeattleCityCouncil_05172021,SeattleCityCouncil,2021-05-17,7377.0,Ordinance (Ord),6,17943
+SeattleCityCouncil_05102021,SeattleCityCouncil,2021-05-10,5187.0,Ordinance (Ord),6,13085
+SeattleCityCouncil_05032021,SeattleCityCouncil,2021-05-03,2623.0,Resolution (Res),5,6394
+SeattleCityCouncil_04262021,SeattleCityCouncil,2021-04-26,5039.0,Ordinance (Ord),5,12265
+SeattleCityCouncil_04192021,SeattleCityCouncil,2021-04-19,4190.0,Ordinance (Ord),6,9709
+SeattleCityCouncil_03292021,SeattleCityCouncil,2021-03-29,10334.0,Ordinance (Ord),6,26647
+SeattleCityCouncil_03222021,SeattleCityCouncil,2021-03-22,3574.0,Ordinance (Ord),6,8834
+SeattleCityCouncil_03152021,SeattleCityCouncil,2021-03-15,8582.0,Ordinance (Ord),7,22034
+SeattleCityCouncil_03082021,SeattleCityCouncil,2021-03-08,3657.0,Ordinance (Ord),7,8751
+SeattleCityCouncil_03012021,SeattleCityCouncil,2021-03-01,4041.0,Ordinance (Ord),5,10067
+SeattleCityCouncil_02222021,SeattleCityCouncil,2021-02-22,1984.0,Ordinance (Ord),5,4592
+SeattleCityCouncil_02162021,SeattleCityCouncil,2021-02-16,4333.0,Clerk File (CF),5,11079
+SeattleCityCouncil_02082021,SeattleCityCouncil,2021-02-08,1934.0,Ordinance (Ord),4,4490
+SeattleCityCouncil_02012021,SeattleCityCouncil,2021-02-01,6168.0,Ordinance (Ord),5,15439
+SeattleCityCouncil_01252021,SeattleCityCouncil,2021-01-25,5875.0,Ordinance (Ord),6,15316
+SeattleCityCouncil_01192021,SeattleCityCouncil,2021-01-19,4605.0,Ordinance (Ord),6,11490
+SeattleCityCouncil_01112021,SeattleCityCouncil,2021-01-11,3194.0,Resolution (Res),6,7794
+SeattleCityCouncil_01042021,SeattleCityCouncil,2021-01-04,1808.0,Ordinance (Ord),4,4251
+DenverCityCouncil_12222014,DenverCityCouncil,2014-12-22,2005.0,Bill,9,4858
+DenverCityCouncil_12152014,DenverCityCouncil,2014-12-15,14180.0,Proclamation,12,24333
+DenverCityCouncil_12082014,DenverCityCouncil,2014-12-08,7346.0,Bill,10,16726
+DenverCityCouncil_12012014,DenverCityCouncil,2014-12-01,9810.0,Bill,15,22580
+DenverCityCouncil_11242014,DenverCityCouncil,2014-11-24,5788.0,Proclamation,9,8659
+DenverCityCouncil_11172014,DenverCityCouncil,2014-11-17,8336.0,Bill,8,13273
+DenverCityCouncil_10272014,DenverCityCouncil,2014-10-27,9716.0,Bill,13,22128
+DenverCityCouncil_10202014,DenverCityCouncil,2014-10-20,8488.0,Proclamation,12,13620
+DenverCityCouncil_10132014,DenverCityCouncil,2014-10-13,2459.0,Proclamation,9,5613
+DenverCityCouncil_10062014,DenverCityCouncil,2014-10-06,7468.0,Proclamation,9,10733
+DenverCityCouncil_09152014,DenverCityCouncil,2014-09-15,4925.0,Proclamation,10,11114
+DenverCityCouncil_09082014,DenverCityCouncil,2014-09-08,4935.0,Proclamation,11,11971
+DenverCityCouncil_08252014,DenverCityCouncil,2014-08-25,125499.998208,Proclamation,9,29802
+DenverCityCouncil_08112014,DenverCityCouncil,2014-08-11,6971.0,Proclamation,9,17105
+DenverCityCouncil_08042014,DenverCityCouncil,2014-08-04,6889.0,Proclamation,7,16460
+DenverCityCouncil_07282014,DenverCityCouncil,2014-07-28,5912.0,Proclamation,9,14850
+DenverCityCouncil_07212014,DenverCityCouncil,2014-07-21,2356.0,Bill,7,5384
+DenverCityCouncil_07142014,DenverCityCouncil,2014-07-14,12023.0,Proclamation,9,28960
+DenverCityCouncil_06232014,DenverCityCouncil,2014-06-23,7008.0,Proclamation,8,17693
+DenverCityCouncil_06162014,DenverCityCouncil,2014-06-16,8530.0,Bill,6,19944
+DenverCityCouncil_06022014,DenverCityCouncil,2014-06-02,10358.0,Proclamation,8,22525
+DenverCityCouncil_05192014,DenverCityCouncil,2014-05-19,18162.0,Proclamation,8,41969
+DenverCityCouncil_05122014,DenverCityCouncil,2014-05-12,21459.0,Bill,9,49233
+DenverCityCouncil_05052014,DenverCityCouncil,2014-05-05,7261.0,Proclamation,8,15384
+DenverCityCouncil_04282014,DenverCityCouncil,2014-04-28,5390.0,Proclamation,7,12977
+DenverCityCouncil_04212014,DenverCityCouncil,2014-04-21,6353.0,Bill,7,13890
+DenverCityCouncil_04142014,DenverCityCouncil,2014-04-14,3578.0,Bill,7,8373
+DenverCityCouncil_04072014,DenverCityCouncil,2014-04-07,8949.0,Proclamation,9,21304
+DenverCityCouncil_04012014,DenverCityCouncil,2014-04-01,3301.0,Proclamation,7,7496
+DenverCityCouncil_03242014,DenverCityCouncil,2014-03-24,10733.0,Proclamation,8,26500
+DenverCityCouncil_03172014,DenverCityCouncil,2014-03-17,3048.0,Bill,7,6998
+DenverCityCouncil_03102014,DenverCityCouncil,2014-03-10,5508.0,Proclamation,10,12437
+DenverCityCouncil_03032014,DenverCityCouncil,2014-03-03,4556.0,Proclamation,8,10619
+DenverCityCouncil_02242014,DenverCityCouncil,2014-02-24,5308.0,Proclamation,9,13228
+DenverCityCouncil_02182014,DenverCityCouncil,2014-02-18,9803.0,Proclamation,7,21871
+DenverCityCouncil_02032014,DenverCityCouncil,2014-02-03,1770.0,Bill,6,4268
+DenverCityCouncil_01272014,DenverCityCouncil,2014-01-27,3716.0,Proclamation,8,9113
+DenverCityCouncil_01132014,DenverCityCouncil,2014-01-13,11060.0,Proclamation,9,26736
+DenverCityCouncil_01062014,DenverCityCouncil,2014-01-06,6703.0,Proclamation,10,14470
+DenverCityCouncil_08012022,DenverCityCouncil,2022-08-01,6065.0,Bill,10,13407
+DenverCityCouncil_07252022,DenverCityCouncil,2022-07-25,4701.0,Proclamation,6,11598
+DenverCityCouncil_07182022,DenverCityCouncil,2022-07-18,7867.0,Resolution,7,17856
+DenverCityCouncil_06272022,DenverCityCouncil,2022-06-27,17997.0,Resolution,9,43863
+DenverCityCouncil_06202022,DenverCityCouncil,2022-06-20,28442.0,Bill,10,65179
+DenverCityCouncil_06062022,DenverCityCouncil,2022-06-06,21951.0,Resolution,12,53203
+DenverCityCouncil_05232022,DenverCityCouncil,2022-05-23,5654.0,Proclamation,7,12159
+DenverCityCouncil_05162022,DenverCityCouncil,2022-05-16,10864.0,Proclamation,9,24646
+DenverCityCouncil_05092022,DenverCityCouncil,2022-05-09,9445.0,Bill,9,22691
+DenverCityCouncil_05022022,DenverCityCouncil,2022-05-02,1358.0,Resolution,6,3041
+DenverCityCouncil_04252022,DenverCityCouncil,2022-04-25,5830.0,Proclamation,8,13082
+DenverCityCouncil_04182022,DenverCityCouncil,2022-04-18,7664.0,Proclamation,9,17412
+DenverCityCouncil_04112022,DenverCityCouncil,2022-04-11,2959.0,Resolution,8,6274
+DenverCityCouncil_04042022,DenverCityCouncil,2022-04-04,5326.0,Resolution,8,12213
+DenverCityCouncil_03292022,DenverCityCouncil,2022-03-29,6708.0,Proclamation,9,14894
+DenverCityCouncil_03212022,DenverCityCouncil,2022-03-21,7085.0,Resolution,9,15635
+DenverCityCouncil_03142022,DenverCityCouncil,2022-03-14,8554.0,Proclamation,11,20462
+DenverCityCouncil_03072022,DenverCityCouncil,2022-03-07,2344.0,Proclamation,7,5279
+DenverCityCouncil_02282022,DenverCityCouncil,2022-02-28,5354.0,Bill,10,12085
+DenverCityCouncil_02222022,DenverCityCouncil,2022-02-22,16095.0,Resolution,11,39200
+DenverCityCouncil_02142022,DenverCityCouncil,2022-02-14,6036.0,Proclamation,9,12989
+DenverCityCouncil_02072022,DenverCityCouncil,2022-02-07,7651.0,Resolution,6,17330
+DenverCityCouncil_01312022,DenverCityCouncil,2022-01-31,4605.0,Resolution,6,10104
+DenverCityCouncil_01242022,DenverCityCouncil,2022-01-24,2548.0,Proclamation,6,5793
+DenverCityCouncil_01182022,DenverCityCouncil,2022-01-18,1677.0,Bill,5,3754
+DenverCityCouncil_01102022,DenverCityCouncil,2022-01-10,14858.0,Proclamation,5,35138
+DenverCityCouncil_01032022,DenverCityCouncil,2022-01-03,14721.0,Proclamation,10,33769
+DenverCityCouncil_12202021,DenverCityCouncil,2021-12-20,9129.0,Resolution,11,21375
+DenverCityCouncil_12132021,DenverCityCouncil,2021-12-13,11740.0,Bill,7,28166
+DenverCityCouncil_12062021,DenverCityCouncil,2021-12-06,3004.0,Bill,9,6650
+DenverCityCouncil_11292021,DenverCityCouncil,2021-11-29,17407.0,Resolution,10,39831
+DenverCityCouncil_11222021,DenverCityCouncil,2021-11-22,8477.0,Resolution,11,19531
+DenverCityCouncil_11152021,DenverCityCouncil,2021-11-15,8147.0,Bill,12,18696
+DenverCityCouncil_11082021,DenverCityCouncil,2021-11-08,7700.0,Resolution,11,18236
+DenverCityCouncil_11012021,DenverCityCouncil,2021-11-01,8995.0,Bill,10,19833
+DenverCityCouncil_10252021,DenverCityCouncil,2021-10-25,8202.0,Proclamation,12,19652
+DenverCityCouncil_10182021,DenverCityCouncil,2021-10-18,2958.0,Communication,6,6141
+DenverCityCouncil_10112021,DenverCityCouncil,2021-10-11,5903.0,Proclamation,10,12636
+DenverCityCouncil_10042021,DenverCityCouncil,2021-10-04,3225.0,Proclamation,8,7790
+DenverCityCouncil_09272021,DenverCityCouncil,2021-09-27,3226.0,Resolution,9,7214
+DenverCityCouncil_09202021,DenverCityCouncil,2021-09-20,8595.0,Resolution,11,20213
+DenverCityCouncil_09132021,DenverCityCouncil,2021-09-13,7258.0,Resolution,10,17990
+DenverCityCouncil_08302021,DenverCityCouncil,2021-08-30,7935.0,Proclamation,12,18542
+DenverCityCouncil_08232021,DenverCityCouncil,2021-08-23,35384.0,Bill,14,36085
+DenverCityCouncil_08162021,DenverCityCouncil,2021-08-16,19090.0,Bill,13,45615
+DenverCityCouncil_08092021,DenverCityCouncil,2021-08-09,6428.0,Proclamation,13,13843
+DenverCityCouncil_08022021,DenverCityCouncil,2021-08-02,13007.0,Bill,13,30356
+DenverCityCouncil_07262021,DenverCityCouncil,2021-07-26,6346.0,Bill,11,14190
+DenverCityCouncil_07192021,DenverCityCouncil,2021-07-19,8469.0,Bill,8,19186
+DenverCityCouncil_07122021,DenverCityCouncil,2021-07-12,9713.0,Bill,10,21805
+DenverCityCouncil_06282021,DenverCityCouncil,2021-06-28,8124.0,Resolution,8,17996
+DenverCityCouncil_06212021,DenverCityCouncil,2021-06-21,6287.0,Resolution,8,13123
+DenverCityCouncil_06142021,DenverCityCouncil,2021-06-14,8676.0,Proclamation,10,17524
+DenverCityCouncil_06072021,DenverCityCouncil,2021-06-07,13359.0,Bill,10,30583
+DenverCityCouncil_05242021,DenverCityCouncil,2021-05-24,11483.0,Proclamation,11,27398
+DenverCityCouncil_05172021,DenverCityCouncil,2021-05-17,6031.0,Bill,9,13358
+DenverCityCouncil_05102021,DenverCityCouncil,2021-05-10,22409.0,Resolution,8,53088
+DenverCityCouncil_05032021,DenverCityCouncil,2021-05-03,10020.0,Proclamation,9,22618
+DenverCityCouncil_04262021,DenverCityCouncil,2021-04-26,4550.0,Bill,8,10554
+DenverCityCouncil_04192021,DenverCityCouncil,2021-04-19,3117.0,Bill,7,6211
+DenverCityCouncil_04122021,DenverCityCouncil,2021-04-12,3310.0,Bill,5,7400
+DenverCityCouncil_04052021,DenverCityCouncil,2021-04-05,7387.0,Resolution,8,16103
+DenverCityCouncil_03302021,DenverCityCouncil,2021-03-30,9929.0,Resolution,9,22960
+DenverCityCouncil_03222021,DenverCityCouncil,2021-03-22,4540.0,Bill,8,9854
+DenverCityCouncil_02222021,DenverCityCouncil,2021-02-22,1895.0,Resolution,7,3955
+DenverCityCouncil_02162021,DenverCityCouncil,2021-02-16,8467.0,Resolution,9,20412
+DenverCityCouncil_02082021,DenverCityCouncil,2021-02-08,28206.0,Bill,10,67888
+DenverCityCouncil_02012021,DenverCityCouncil,2021-02-01,5370.0,Bill,9,11680
+DenverCityCouncil_01252021,DenverCityCouncil,2021-01-25,3262.0,Bill,6,5694
+DenverCityCouncil_01192021,DenverCityCouncil,2021-01-19,7921.0,Resolution,6,17360
+DenverCityCouncil_01112021,DenverCityCouncil,2021-01-11,3623.0,Bill,9,7488
+DenverCityCouncil_01042021,DenverCityCouncil,2021-01-04,4243.0,Resolution,6,8986
+DenverCityCouncil_12212020,DenverCityCouncil,2020-12-21,10502.0,Resolution,9,23647
+DenverCityCouncil_12142020,DenverCityCouncil,2020-12-14,24543.0,Proclamation,10,55176
+DenverCityCouncil_12072020,DenverCityCouncil,2020-12-07,12451.0,Resolution,8,28690
+DenverCityCouncil_11302020,DenverCityCouncil,2020-11-30,10155.0,Resolution,6,22171
+DenverCityCouncil_11232020,DenverCityCouncil,2020-11-23,18054.0,Bill,7,42404
+DenverCityCouncil_11162020,DenverCityCouncil,2020-11-16,19329.0,Resolution,7,44344
+DenverCityCouncil_11092020,DenverCityCouncil,2020-11-09,9513.0,Bill,7,21429
+DenverCityCouncil_11022020,DenverCityCouncil,2020-11-02,30160.0,Bill,10,33799
+DenverCityCouncil_10262020,DenverCityCouncil,2020-10-26,20316.0,Proclamation,10,48735
+DenverCityCouncil_10122020,DenverCityCouncil,2020-10-12,6168.0,Proclamation,5,13100
+DenverCityCouncil_10052020,DenverCityCouncil,2020-10-05,17025.0,Proclamation,4,39015
+DenverCityCouncil_09282020,DenverCityCouncil,2020-09-28,10880.0,Bill,5,24436
+DenverCityCouncil_09212020,DenverCityCouncil,2020-09-21,4287.0,Bill,7,8784
+DenverCityCouncil_09142020,DenverCityCouncil,2020-09-14,7358.0,Proclamation,9,16072
+DenverCityCouncil_08312020,DenverCityCouncil,2020-08-31,13448.0,Proclamation,6,29574
+DenverCityCouncil_08172020,DenverCityCouncil,2020-08-17,22902.0,Proclamation,6,52096
+DenverCityCouncil_08102020,DenverCityCouncil,2020-08-10,15436.0,Bill,7,34791
+DenverCityCouncil_08032020,DenverCityCouncil,2020-08-03,8072.0,Resolution,5,17980
+DenverCityCouncil_07272020,DenverCityCouncil,2020-07-27,8732.0,Resolution,6,18560
+DenverCityCouncil_07202020,DenverCityCouncil,2020-07-20,19466.0,Proclamation,4,42155
+DenverCityCouncil_06222020,DenverCityCouncil,2020-06-22,17526.0,Proclamation,14,38163
+DenverCityCouncil_06152020,DenverCityCouncil,2020-06-15,3593.0,Resolution,8,9114
+DenverCityCouncil_06082020,DenverCityCouncil,2020-06-08,3896.0,Resolution,8,9908
+DenverCityCouncil_05182020,DenverCityCouncil,2020-05-18,7938.0,Resolution,12,20305
+DenverCityCouncil_05112020,DenverCityCouncil,2020-05-11,6567.0,Resolution,12,16430
+DenverCityCouncil_05042020,DenverCityCouncil,2020-05-04,5391.0,Resolution,4,12037
+DenverCityCouncil_04272020,DenverCityCouncil,2020-04-27,3966.0,Resolution,4,7961
+DenverCityCouncil_04202020,DenverCityCouncil,2020-04-20,1562.0,Resolution,3,3560
+DenverCityCouncil_04132020,DenverCityCouncil,2020-04-13,6002.0,Proclamation,5,13693
+DenverCityCouncil_04062020,DenverCityCouncil,2020-04-06,1882.0,Bill,8,2478
+DenverCityCouncil_03312020,DenverCityCouncil,2020-03-31,1949.0,Resolution,7,4601
+DenverCityCouncil_03232020,DenverCityCouncil,2020-03-23,1346.0,Resolution,6,3066
+DenverCityCouncil_03162020,DenverCityCouncil,2020-03-16,2442.0,Resolution,7,6811
+DenverCityCouncil_03092020,DenverCityCouncil,2020-03-09,3033.0,Proclamation,9,7673
+DenverCityCouncil_03022020,DenverCityCouncil,2020-03-02,5227.0,Proclamation,12,11992
+DenverCityCouncil_02242020,DenverCityCouncil,2020-02-24,11398.0,Communication,12,28555
+DenverCityCouncil_02182020,DenverCityCouncil,2020-02-18,9749.0,Resolution,11,23534
+DenverCityCouncil_02102020,DenverCityCouncil,2020-02-10,15934.0,Resolution,16,39464
+DenverCityCouncil_02032020,DenverCityCouncil,2020-02-03,6864.0,Resolution,10,16679
+DenverCityCouncil_01272020,DenverCityCouncil,2020-01-27,3932.0,Resolution,7,10012
+DenverCityCouncil_01212020,DenverCityCouncil,2020-01-21,788.0,Bill,8,1840
+DenverCityCouncil_12232019,DenverCityCouncil,2019-12-23,2038.0,Proclamation,6,5205
+DenverCityCouncil_12162019,DenverCityCouncil,2019-12-16,13549.0,Resolution,15,32427
+DenverCityCouncil_12092019,DenverCityCouncil,2019-12-09,3831.0,Bill,11,7667
+DenverCityCouncil_12022019,DenverCityCouncil,2019-12-02,14917.0,Resolution,15,36445
+DenverCityCouncil_11252019,DenverCityCouncil,2019-11-25,9721.0,Bill,13,23526
+DenverCityCouncil_11182019,DenverCityCouncil,2019-11-18,7033.0,Resolution,9,17591
+DenverCityCouncil_11122019,DenverCityCouncil,2019-11-12,3660.0,Bill,8,8235
+DenverCityCouncil_11042019,DenverCityCouncil,2019-11-04,13997.0,Bill,11,35313
+DenverCityCouncil_10282019,DenverCityCouncil,2019-10-28,13210.0,Resolution,14,32212
+DenverCityCouncil_10212019,DenverCityCouncil,2019-10-21,7241.0,Proclamation,9,17409
+DenverCityCouncil_10142019,DenverCityCouncil,2019-10-14,1511.0,Proclamation,7,3455
+DenverCityCouncil_10072019,DenverCityCouncil,2019-10-07,8573.0,Resolution,13,20211
+DenverCityCouncil_09302019,DenverCityCouncil,2019-09-30,16653.0,Bill,14,41264
+DenverCityCouncil_09232019,DenverCityCouncil,2019-09-23,7996.0,Bill,10,21510
+DenverCityCouncil_09162019,DenverCityCouncil,2019-09-16,23959.0,Bill,15,59529
+DenverCityCouncil_09092019,DenverCityCouncil,2019-09-09,12804.0,Resolution,13,25042
+DenverCityCouncil_08262019,DenverCityCouncil,2019-08-26,26248.0,Resolution,16,67087
+DenverCityCouncil_08192019,DenverCityCouncil,2019-08-19,7668.0,Proclamation,10,18302
+DenverCityCouncil_08122019,DenverCityCouncil,2019-08-12,1818.0,Resolution,11,4362
+DenverCityCouncil_08052019,DenverCityCouncil,2019-08-05,17257.0,Proclamation,16,42648
+DenverCityCouncil_07292019,DenverCityCouncil,2019-07-29,4164.0,Resolution,7,9736
+DenverCityCouncil_07222019,DenverCityCouncil,2019-07-22,2882.0,Bill,10,6735
+DenverCityCouncil_07152019,DenverCityCouncil,2019-07-15,3011.0,Resolution,8,7570
+DenverCityCouncil_07082019,DenverCityCouncil,2019-07-08,19722.0,Resolution,17,47694
+DenverCityCouncil_06242019,DenverCityCouncil,2019-06-24,20740.0,Resolution,16,53340
+DenverCityCouncil_06172019,DenverCityCouncil,2019-06-17,12351.0,Resolution,13,28944
+DenverCityCouncil_06102019,DenverCityCouncil,2019-06-10,5422.0,Bill,9,12655
+DenverCityCouncil_06032019,DenverCityCouncil,2019-06-03,5966.0,Proclamation,11,13445
+DenverCityCouncil_05202019,DenverCityCouncil,2019-05-20,5931.0,Proclamation,11,14254
+DenverCityCouncil_05132019,DenverCityCouncil,2019-05-13,2111.0,Proclamation,7,5361
+DenverCityCouncil_05062019,DenverCityCouncil,2019-05-06,13953.0,Proclamation,14,33759
+DenverCityCouncil_04292019,DenverCityCouncil,2019-04-29,19958.0,Bill,15,49293
+DenverCityCouncil_04222019,DenverCityCouncil,2019-04-22,17779.0,Bill,18,45195
+DenverCityCouncil_04152019,DenverCityCouncil,2019-04-15,13154.0,Bill,14,34356
+DenverCityCouncil_04082019,DenverCityCouncil,2019-04-08,18136.0,Bill,17,44475
+DenverCityCouncil_04012019,DenverCityCouncil,2019-04-01,5420.0,Bill,11,12978
+DenverCityCouncil_03262019,DenverCityCouncil,2019-03-26,2444.0,Proclamation,9,5604
+DenverCityCouncil_03182019,DenverCityCouncil,2019-03-18,4766.0,Bill,10,11172
+DenverCityCouncil_03112019,DenverCityCouncil,2019-03-11,10226.0,Proclamation,15,24727
+DenverCityCouncil_02252019,DenverCityCouncil,2019-02-25,9041.0,Proclamation,10,22577
+DenverCityCouncil_02192019,DenverCityCouncil,2019-02-19,6484.0,Bill,14,15397
+DenverCityCouncil_02112019,DenverCityCouncil,2019-02-11,5202.0,Bill,11,12853
+DenverCityCouncil_02042019,DenverCityCouncil,2019-02-04,4518.0,Resolution,11,10428
+DenverCityCouncil_01282019,DenverCityCouncil,2019-01-28,9562.0,Bill,14,22318
+DenverCityCouncil_01222019,DenverCityCouncil,2019-01-22,447.0,Resolution,4,1000
+DenverCityCouncil_01142019,DenverCityCouncil,2019-01-14,107819.999232,Bill,15,26758
+DenverCityCouncil_01072019,DenverCityCouncil,2019-01-07,20138.0,Proclamation,15,49489
+DenverCityCouncil_01022019,DenverCityCouncil,2019-01-02,1306.0,Resolution,6,3334
+DenverCityCouncil_12172018,DenverCityCouncil,2018-12-17,15203.0,Proclamation,17,37999
+DenverCityCouncil_12102018,DenverCityCouncil,2018-12-10,1854.0,Bill,7,4742
+DenverCityCouncil_12032018,DenverCityCouncil,2018-12-03,20632.0,Resolution,18,51625
+DenverCityCouncil_11262018,DenverCityCouncil,2018-11-26,5154.0,Resolution,13,12188
+DenverCityCouncil_11192018,DenverCityCouncil,2018-11-19,9914.0,Proclamation,11,24025
+DenverCityCouncil_11132018,DenverCityCouncil,2018-11-13,4571.0,Bill,10,10818
+DenverCityCouncil_11052018,DenverCityCouncil,2018-11-05,4926.0,Proclamation,11,11667
+DenverCityCouncil_10292018,DenverCityCouncil,2018-10-29,7954.0,Bill,12,20218
+DenverCityCouncil_10222018,DenverCityCouncil,2018-10-22,8403.0,Bill,10,21103
+DenverCityCouncil_10152018,DenverCityCouncil,2018-10-15,12718.0,Communication,13,29685
+DenverCityCouncil_10082018,DenverCityCouncil,2018-10-08,7797.0,Proclamation,14,18327
+DenverCityCouncil_10012018,DenverCityCouncil,2018-10-01,6815.0,Proclamation,14,17443
+DenverCityCouncil_09242018,DenverCityCouncil,2018-09-24,3463.0,Bill,11,9022
+DenverCityCouncil_09172018,DenverCityCouncil,2018-09-17,7808.0,Proclamation,11,19520
+DenverCityCouncil_09102018,DenverCityCouncil,2018-09-10,9842.0,Proclamation,13,23169
+DenverCityCouncil_08272018,DenverCityCouncil,2018-08-27,6006.0,Bill,11,14550
+DenverCityCouncil_08202018,DenverCityCouncil,2018-08-20,16584.0,Bill,15,42889
+DenverCityCouncil_08132018,DenverCityCouncil,2018-08-13,7753.0,Proclamation,10,19773
+DenverCityCouncil_08062018,DenverCityCouncil,2018-08-06,6499.0,Bill,11,15794
+DenverCityCouncil_07302018,DenverCityCouncil,2018-07-30,18995.0,Resolution,16,50092
+DenverCityCouncil_07162018,DenverCityCouncil,2018-07-16,16589.0,Resolution,16,43710
+DenverCityCouncil_07092018,DenverCityCouncil,2018-07-09,9685.0,Communication,14,22847
+DenverCityCouncil_06252018,DenverCityCouncil,2018-06-25,7436.0,Proclamation,12,18169
+DenverCityCouncil_06182018,DenverCityCouncil,2018-06-18,15263.0,Resolution,12,37979
+DenverCityCouncil_06112018,DenverCityCouncil,2018-06-11,15247.0,Resolution,14,37296
+DenverCityCouncil_05212018,DenverCityCouncil,2018-05-21,6882.0,Proclamation,10,16526
+DenverCityCouncil_05142018,DenverCityCouncil,2018-05-14,5422.0,Proclamation,10,13165
+DenverCityCouncil_05072018,DenverCityCouncil,2018-05-07,7847.0,Bill,15,18566
+DenverCityCouncil_04302018,DenverCityCouncil,2018-04-30,2636.0,Presentation,7,6413
+DenverCityCouncil_04232018,DenverCityCouncil,2018-04-23,9960.0,Proclamation,14,24280
+DenverCityCouncil_04162018,DenverCityCouncil,2018-04-16,6521.0,Presentation,15,15472
+DenverCityCouncil_04092018,DenverCityCouncil,2018-04-09,7539.0,Proclamation,11,17453
+DenverCityCouncil_03272018,DenverCityCouncil,2018-03-27,7789.0,Resolution,13,19935
+DenverCityCouncil_03192018,DenverCityCouncil,2018-03-19,8541.0,Proclamation,11,19912
+DenverCityCouncil_03122018,DenverCityCouncil,2018-03-12,5379.0,Proclamation,12,12370
+DenverCityCouncil_03052018,DenverCityCouncil,2018-03-05,7055.0,Proclamation,11,17697
+DenverCityCouncil_02262018,DenverCityCouncil,2018-02-26,1354.0,Bill,8,3190
+DenverCityCouncil_02202018,DenverCityCouncil,2018-02-20,9237.0,Resolution,12,22332
+DenverCityCouncil_02122018,DenverCityCouncil,2018-02-12,22316.0,Resolution,16,55144
+DenverCityCouncil_02052018,DenverCityCouncil,2018-02-05,627.0,Bill,5,1440
+DenverCityCouncil_01292018,DenverCityCouncil,2018-01-29,3346.0,Resolution,7,8417
+DenverCityCouncil_01222018,DenverCityCouncil,2018-01-22,3329.0,Bill,8,7840
+DenverCityCouncil_01082018,DenverCityCouncil,2018-01-08,9712.0,Communication,14,23018
+DenverCityCouncil_01022018,DenverCityCouncil,2018-01-02,20568.0,Proclamation,14,52019
+DenverCityCouncil_12182017,DenverCityCouncil,2017-12-18,9530.0,Resolution,11,23089
+DenverCityCouncil_12112017,DenverCityCouncil,2017-12-11,6332.0,Resolution,12,13610
+DenverCityCouncil_12042017,DenverCityCouncil,2017-12-04,2083.0,Proclamation,7,5126
+DenverCityCouncil_11272017,DenverCityCouncil,2017-11-27,1957.0,Resolution,9,4605
+DenverCityCouncil_11202017,DenverCityCouncil,2017-11-20,3131.0,Resolution,7,6848
+DenverCityCouncil_11132017,DenverCityCouncil,2017-11-13,9268.0,Proclamation,10,21918
+DenverCityCouncil_11062017,DenverCityCouncil,2017-11-06,11926.0,Proclamation,11,30098
+DenverCityCouncil_10302017,DenverCityCouncil,2017-10-30,3905.0,Bill,8,9448
+DenverCityCouncil_10232017,DenverCityCouncil,2017-10-23,4823.0,Proclamation,8,11140
+DenverCityCouncil_10162017,DenverCityCouncil,2017-10-16,3857.0,Announcement,8,8699
+DenverCityCouncil_10092017,DenverCityCouncil,2017-10-09,2417.0,Proclamation,8,5208
+DenverCityCouncil_10022017,DenverCityCouncil,2017-10-02,11417.0,Resolution,13,27182
+DenverCityCouncil_09252017,DenverCityCouncil,2017-09-25,28286.0,Proclamation,17,68383
+DenverCityCouncil_09182017,DenverCityCouncil,2017-09-18,3976.0,Bill,8,9685
+DenverCityCouncil_09112017,DenverCityCouncil,2017-09-11,14711.0,Proclamation,14,35644
+DenverCityCouncil_08282017,DenverCityCouncil,2017-08-28,13232.0,Bill,14,29908
+DenverCityCouncil_08212017,DenverCityCouncil,2017-08-21,14195.0,Bill,14,32975
+DenverCityCouncil_08142017,DenverCityCouncil,2017-08-14,28038.0,Proclamation,17,67514
+DenverCityCouncil_08072017,DenverCityCouncil,2017-08-07,18051.0,Bill,16,42791
+DenverCityCouncil_07312017,DenverCityCouncil,2017-07-31,6354.0,Resolution,8,16986
+DenverCityCouncil_07242017,DenverCityCouncil,2017-07-24,21062.0,Proclamation,16,50921
+DenverCityCouncil_07172017,DenverCityCouncil,2017-07-17,9872.0,Bill,13,23314
+DenverCityCouncil_06262017,DenverCityCouncil,2017-06-26,5637.0,Proclamation,10,13560
+DenverCityCouncil_06192017,DenverCityCouncil,2017-06-19,6498.0,Bill,10,14887
+DenverCityCouncil_06122017,DenverCityCouncil,2017-06-12,5864.0,Resolution,9,14203
+DenverCityCouncil_06052017,DenverCityCouncil,2017-06-05,5430.0,Resolution,9,13081
+DenverCityCouncil_05222017,DenverCityCouncil,2017-05-22,9430.0,Proclamation,11,23553
+DenverCityCouncil_05152017,DenverCityCouncil,2017-05-15,10161.0,Proclamation,11,25823
+DenverCityCouncil_05012017,DenverCityCouncil,2017-05-01,14254.0,Resolution,12,34230
+DenverCityCouncil_04242017,DenverCityCouncil,2017-04-24,12260.0,Bill,12,29470
+DenverCityCouncil_04172017,DenverCityCouncil,2017-04-17,4033.0,Bill,9,8717
+DenverCityCouncil_04102017,DenverCityCouncil,2017-04-10,3765.0,Bill,9,8182
+DenverCityCouncil_04032017,DenverCityCouncil,2017-04-03,6780.0,Bill,11,16660
+DenverCityCouncil_03282017,DenverCityCouncil,2017-03-28,1286.0,Resolution,6,3221
+DenverCityCouncil_03202017,DenverCityCouncil,2017-03-20,6873.0,Bill,14,15790
+DenverCityCouncil_03132017,DenverCityCouncil,2017-03-13,3045.0,Bill,9,6263
+DenverCityCouncil_03062017,DenverCityCouncil,2017-03-06,3355.0,Proclamation,8,8193
+DenverCityCouncil_02272017,DenverCityCouncil,2017-02-27,3578.0,Bill,8,8784
+DenverCityCouncil_02212017,DenverCityCouncil,2017-02-21,2473.0,Resolution,10,5933
+DenverCityCouncil_02132017,DenverCityCouncil,2017-02-13,8067.0,Proclamation,12,19468
+DenverCityCouncil_02062017,DenverCityCouncil,2017-02-06,4895.0,Resolution,11,11144
+DenverCityCouncil_01302017,DenverCityCouncil,2017-01-30,2506.0,Resolution,8,4479
+DenverCityCouncil_01232017,DenverCityCouncil,2017-01-23,3585.0,Proclamation,7,9072
+DenverCityCouncil_01172017,DenverCityCouncil,2017-01-17,4841.0,Resolution,10,10272
+DenverCityCouncil_01092017,DenverCityCouncil,2017-01-09,6425.0,Bill,11,15920
+DenverCityCouncil_01032017,DenverCityCouncil,2017-01-03,3497.0,Proclamation,9,8482
+DenverCityCouncil_12192016,DenverCityCouncil,2016-12-19,5386.0,Resolution,10,12981
+DenverCityCouncil_12052016,DenverCityCouncil,2016-12-05,1230.0,Bill,4,2557
+DenverCityCouncil_11282016,DenverCityCouncil,2016-11-28,2571.0,Resolution,6,6308
+DenverCityCouncil_11212016,DenverCityCouncil,2016-11-21,21814.0,Proclamation,14,53610
+DenverCityCouncil_11072016,DenverCityCouncil,2016-11-07,2842.0,Proclamation,8,7188
+DenverCityCouncil_10312016,DenverCityCouncil,2016-10-31,1626.0,Bill,7,3574
+DenverCityCouncil_10242016,DenverCityCouncil,2016-10-24,3938.0,Communication,9,9520
+DenverCityCouncil_10172016,DenverCityCouncil,2016-10-17,6964.0,Proclamation,11,15812
+DenverCityCouncil_10102016,DenverCityCouncil,2016-10-10,8868.0,Proclamation,13,21015
+DenverCityCouncil_10032016,DenverCityCouncil,2016-10-03,5818.0,Presentation,12,13954
+DenverCityCouncil_09262016,DenverCityCouncil,2016-09-26,6594.0,Proclamation,12,15224
+DenverCityCouncil_09192016,DenverCityCouncil,2016-09-19,18296.0,Bill,15,45711
+DenverCityCouncil_09122016,DenverCityCouncil,2016-09-12,21667.0,Proclamation,15,52949
+DenverCityCouncil_08292016,DenverCityCouncil,2016-08-29,12739.0,Proclamation,15,31775
+DenverCityCouncil_08222016,DenverCityCouncil,2016-08-22,15493.0,Bill,11,38132
+DenverCityCouncil_08082016,DenverCityCouncil,2016-08-08,8510.0,Proclamation,15,20363
+DenverCityCouncil_07252016,DenverCityCouncil,2016-07-25,15251.0,Bill,14,37665
+DenverCityCouncil_07182016,DenverCityCouncil,2016-07-18,10720.0,Bill,13,26502
+DenverCityCouncil_06272016,DenverCityCouncil,2016-06-27,16686.0,Resolution,11,40498
+DenverCityCouncil_06202016,DenverCityCouncil,2016-06-20,16213.0,Proclamation,14,37931
+DenverCityCouncil_06132016,DenverCityCouncil,2016-06-13,32737.0,Bill,20,82369
+DenverCityCouncil_05312016,DenverCityCouncil,2016-05-31,21300.0,Proclamation,15,54478
+DenverCityCouncil_05162016,DenverCityCouncil,2016-05-16,21166.0,Proclamation,16,53849
+DenverCityCouncil_05092016,DenverCityCouncil,2016-05-09,7176.0,Proclamation,12,16872
+DenverCityCouncil_05022016,DenverCityCouncil,2016-05-02,4575.0,Bill,9,11377
+DenverCityCouncil_04252016,DenverCityCouncil,2016-04-25,8255.0,Resolution,12,20204
+DenverCityCouncil_04182016,DenverCityCouncil,2016-04-18,8327.0,Bill,12,18418
+DenverCityCouncil_04112016,DenverCityCouncil,2016-04-11,27504.0,Bill,15,68862
+DenverCityCouncil_04042016,DenverCityCouncil,2016-04-04,8952.0,Bill,14,22338
+DenverCityCouncil_03292016,DenverCityCouncil,2016-03-29,9370.0,Resolution,13,22939
+DenverCityCouncil_03142016,DenverCityCouncil,2016-03-14,4608.0,Resolution,10,11307
+DenverCityCouncil_03072016,DenverCityCouncil,2016-03-07,7690.0,Proclamation,11,17952
+DenverCityCouncil_02292016,DenverCityCouncil,2016-02-29,14506.0,Bill,13,34779
+DenverCityCouncil_02012016,DenverCityCouncil,2016-02-01,6744.0,Proclamation,13,16556
+DenverCityCouncil_01252016,DenverCityCouncil,2016-01-25,25178.0,Bill,17,61316
+DenverCityCouncil_01112016,DenverCityCouncil,2016-01-11,5452.0,Proclamation,11,12611
+DenverCityCouncil_12212015,DenverCityCouncil,2015-12-21,6694.0,Resolution,14,16249
+DenverCityCouncil_12072015,DenverCityCouncil,2015-12-07,5320.0,Resolution,11,11178
+DenverCityCouncil_11302015,DenverCityCouncil,2015-11-30,16241.0,Resolution,16,40562
+DenverCityCouncil_11232015,DenverCityCouncil,2015-11-23,11256.0,Bill,11,26108
+DenverCityCouncil_11162015,DenverCityCouncil,2015-11-16,24327.0,Bill,14,57461
+DenverCityCouncil_11022015,DenverCityCouncil,2015-11-02,18309.0,Proclamation,12,46143
+DenverCityCouncil_10262015,DenverCityCouncil,2015-10-26,21602.0,Bill,18,52803
+DenverCityCouncil_10192015,DenverCityCouncil,2015-10-19,4368.0,Proclamation,9,10978
+DenverCityCouncil_10122015,DenverCityCouncil,2015-10-12,6594.0,Bill,11,14344
+DenverCityCouncil_10052015,DenverCityCouncil,2015-10-05,3978.0,Proclamation,13,9372
+DenverCityCouncil_09282015,DenverCityCouncil,2015-09-28,9672.0,Proclamation,11,22239
+DenverCityCouncil_09212015,DenverCityCouncil,2015-09-21,6981.0,Bill,11,17479
+DenverCityCouncil_08312015,DenverCityCouncil,2015-08-31,4918.0,Proclamation,11,10921
+DenverCityCouncil_08242015,DenverCityCouncil,2015-08-24,13396.0,Bill,15,31765
+DenverCityCouncil_08172015,DenverCityCouncil,2015-08-17,6066.0,Bill,11,15728
+DenverCityCouncil_08102015,DenverCityCouncil,2015-08-10,6582.0,Bill,13,15680
+DenverCityCouncil_08032015,DenverCityCouncil,2015-08-03,737.0,Bill,9,1891
+DenverCityCouncil_07132015,DenverCityCouncil,2015-07-13,9333.0,Bill,15,21941
+DenverCityCouncil_07062015,DenverCityCouncil,2015-07-06,23738.0,Resolution,12,57322
+DenverCityCouncil_06292015,DenverCityCouncil,2015-06-29,17792.0,Resolution,14,39458
+DenverCityCouncil_06222015,DenverCityCouncil,2015-06-22,10893.0,Proclamation,12,26339
+DenverCityCouncil_06152015,DenverCityCouncil,2015-06-15,2409.0,Proclamation,8,5209
+DenverCityCouncil_06082015,DenverCityCouncil,2015-06-08,31990.0,Proclamation,16,73127
+DenverCityCouncil_06012015,DenverCityCouncil,2015-06-01,14077.0,Proclamation,13,35390
+DenverCityCouncil_05182015,DenverCityCouncil,2015-05-18,4618.0,Proclamation,11,10659
+DenverCityCouncil_04272015,DenverCityCouncil,2015-04-27,2774.0,Bill,10,6160
+DenverCityCouncil_04202015,DenverCityCouncil,2015-04-20,10985.0,Bill,12,25831
+DenverCityCouncil_04132015,DenverCityCouncil,2015-04-13,3172.0,Proclamation,9,7361
+DenverCityCouncil_03312015,DenverCityCouncil,2015-03-31,2304.0,Bill,9,4870
+DenverCityCouncil_03162015,DenverCityCouncil,2015-03-16,10669.0,Proclamation,14,24959
+DenverCityCouncil_03022015,DenverCityCouncil,2015-03-02,4052.0,Proclamation,9,9221
+DenverCityCouncil_02232015,DenverCityCouncil,2015-02-23,18208.0,Proclamation,15,40959
+DenverCityCouncil_02172015,DenverCityCouncil,2015-02-17,23132.0,Proclamation,16,49518
+DenverCityCouncil_02092015,DenverCityCouncil,2015-02-09,3404.0,Proclamation,7,7176
+DenverCityCouncil_02022015,DenverCityCouncil,2015-02-02,7196.0,Proclamation,10,16363
+DenverCityCouncil_01262015,DenverCityCouncil,2015-01-26,2471.0,Bill,11,5507
+DenverCityCouncil_01202015,DenverCityCouncil,2015-01-20,18100.0,Bill,13,43098
+DenverCityCouncil_01122015,DenverCityCouncil,2015-01-12,15648.0,Bill,13,28573
+DenverCityCouncil_01052015,DenverCityCouncil,2015-01-05,8086.0,Proclamation,10,12721
+KingCountyCC_08172022,KingCountyCC,2022-08-17,9015.0,Motion,7,20154
+KingCountyCC_07202022,KingCountyCC,2022-07-20,10835.0,Motion,8,24832
+KingCountyCC_07062022,KingCountyCC,2022-07-06,11541.0,Motion,9,28767
+KingCountyCC_06152022,KingCountyCC,2022-06-15,10274.0,Ordinance,5,25533
+KingCountyCC_06012022,KingCountyCC,2022-06-01,8310.0,Motion,5,20696
+KingCountyCC_05182022,KingCountyCC,2022-05-18,7988.0,Motion,4,18633
+KingCountyCC_04062022,KingCountyCC,2022-04-06,6171.0,Motion,4,14491
+KingCountyCC_03162022,KingCountyCC,2022-03-16,5000.0,Motion,4,12649
+KingCountyCC_03022022,KingCountyCC,2022-03-02,9815.0,Motion,4,22390
+KingCountyCC_02162022,KingCountyCC,2022-02-16,7069.0,Motion,4,16867
+KingCountyCC_02022022,KingCountyCC,2022-02-02,8645.0,Motion,4,21364
+KingCountyCC_12012021,KingCountyCC,2021-12-01,11013.0,Motion,5,25833
+KingCountyCC_11172021,KingCountyCC,2021-11-17,2872.0,Ordinance,3,6951
+KingCountyCC_11032021,KingCountyCC,2021-11-03,7507.0,Motion,4,18197
+KingCountyCC_10202021,KingCountyCC,2021-10-20,7097.0,Motion,6,14656
+KingCountyCC_10062021,KingCountyCC,2021-10-06,7451.0,Ordinance,3,17566
+KingCountyCC_09152021,KingCountyCC,2021-09-15,8784.0,Motion,6,16549
+KingCountyCC_09012021,KingCountyCC,2021-09-01,4381.0,Motion,5,10302
+KingCountyCC_08182021,KingCountyCC,2021-08-18,4300.0,Motion,4,10175
+KingCountyCC_07212021,KingCountyCC,2021-07-21,7795.0,Motion,4,18871
+KingCountyCC_07072021,KingCountyCC,2021-07-07,9251.0,Ordinance,5,23712
+KingCountyCC_06232021,KingCountyCC,2021-06-23,9907.0,Ordinance,5,25882
+KingCountyCC_06162021,KingCountyCC,2021-06-16,7761.0,Ordinance,4,19069
+KingCountyCC_06022021,KingCountyCC,2021-06-02,1730.0,Ordinance,3,4549
+KingCountyCC_05192021,KingCountyCC,2021-05-19,4345.0,Ordinance,3,10401
+KingCountyCC_05052021,KingCountyCC,2021-05-05,6384.0,Motion,4,15255
+KingCountyCC_04212021,KingCountyCC,2021-04-21,5838.0,Motion,4,14230
+KingCountyCC_04072021,KingCountyCC,2021-04-07,5685.0,Ordinance,4,14084
+KingCountyCC_03172021,KingCountyCC,2021-03-17,8490.0,Ordinance,2,20806
+KingCountyCC_03032021,KingCountyCC,2021-03-03,13598.0,Motion,5,27494
+KingCountyCC_02172021,KingCountyCC,2021-02-17,9042.0,Motion,3,21680
+KingCountyCC_02032021,KingCountyCC,2021-02-03,6719.0,Motion,3,16095
+KingCountyCC_01202021,KingCountyCC,2021-01-20,7246.0,Motion,5,15813
+KingCountyCC_12012020,KingCountyCC,2020-12-01,4150.0,Motion,4,9996
+KingCountyCC_11032020,KingCountyCC,2020-11-03,7211.0,Ordinance,6,18285
+KingCountyCC_10202020,KingCountyCC,2020-10-20,4359.0,Motion,5,10811
+KingCountyCC_10062020,KingCountyCC,2020-10-06,7816.0,Ordinance,4,19458
+KingCountyCC_09082020,KingCountyCC,2020-09-08,5192.0,Motion,4,12588
+KingCountyCC_08252020,KingCountyCC,2020-08-25,6563.0,Ordinance,3,15253
+KingCountyCC_07282020,KingCountyCC,2020-07-28,12299.0,Ordinance,2,31130
+KingCountyCC_07142020,KingCountyCC,2020-07-14,11450.0,Motion,2,28114
+KingCountyCC_06302020,KingCountyCC,2020-06-30,7821.0,Motion,5,19083
+KingCountyCC_06162020,KingCountyCC,2020-06-16,12739.0,Ordinance,2,29721
+KingCountyCC_06022020,KingCountyCC,2020-06-02,11583.0,Ordinance,4,28916
+KingCountyCC_05192020,KingCountyCC,2020-05-19,8342.0,Ordinance,3,20898
+KingCountyCC_05052020,KingCountyCC,2020-05-05,17858.0,Ordinance,3,41869
+KingCountyCC_04212020,KingCountyCC,2020-04-21,10545.0,Motion,2,25459
+KingCountyCC_02242020,KingCountyCC,2020-02-24,5240.0,Motion,7,13617
+KingCountyCC_02102020,KingCountyCC,2020-02-10,7163.0,Motion,7,18211
+KingCountyCC_01272020,KingCountyCC,2020-01-27,2656.0,Motion,5,6722
+KingCountyCC_12022019,KingCountyCC,2019-12-02,1663.0,Ordinance,4,4023
+KingCountyCC_11182019,KingCountyCC,2019-11-18,5219.0,Motion,7,13626
+KingCountyCC_11042019,KingCountyCC,2019-11-04,5704.0,Motion,6,15169
+KingCountyCC_10212019,KingCountyCC,2019-10-21,3729.0,Motion,5,10006
+KingCountyCC_10072019,KingCountyCC,2019-10-07,6784.0,Motion,5,17477
+KingCountyCC_09162019,KingCountyCC,2019-09-16,7790.0,Ordinance,9,19970
+KingCountyCC_07292019,KingCountyCC,2019-07-29,10087.0,Motion,7,24118
+KingCountyCC_07152019,KingCountyCC,2019-07-15,7279.0,Ordinance,7,18330
+KingCountyCC_07012019,KingCountyCC,2019-07-01,4660.0,Motion,4,12454
+KingCountyCC_06172019,KingCountyCC,2019-06-17,6845.0,Ordinance,5,17690
+KingCountyCC_04152019,KingCountyCC,2019-04-15,2792.0,Motion,6,6776
+KingCountyCC_03182019,KingCountyCC,2019-03-18,4241.0,Motion,5,10802
+KingCountyCC_03042019,KingCountyCC,2019-03-04,8088.0,Ordinance,7,20539
+KingCountyCC_12052018,KingCountyCC,2018-12-05,6275.0,Motion,5,17263
+KingCountyCC_10292018,KingCountyCC,2018-10-29,8190.0,Ordinance,5,22505
+KingCountyCC_10012018,KingCountyCC,2018-10-01,6243.0,Ordinance,8,16568
+KingCountyCC_09192018,KingCountyCC,2018-09-19,5659.0,Ordinance,6,13869
+KingCountyCC_09052018,KingCountyCC,2018-09-05,14973.0,Ordinance,9,37368
+KingCountyCC_08292018,KingCountyCC,2018-08-29,11325.0,Motion,6,29340
+KingCountyCC_07302018,KingCountyCC,2018-07-30,9628.0,Motion,8,24348
+KingCountyCC_07252018,KingCountyCC,2018-07-25,7663.0,Ordinance,6,20351
+KingCountyCC_06202018,KingCountyCC,2018-06-20,7133.0,Motion,5,19262
+KingCountyCC_06062018,KingCountyCC,2018-06-06,7263.0,Motion,7,16472
+KingCountyCC_05162018,KingCountyCC,2018-05-16,4560.0,Ordinance,6,12042
+KingCountyCC_05022018,KingCountyCC,2018-05-02,6331.0,Motion,7,15961
+KingCountyCC_04182018,KingCountyCC,2018-04-18,5544.0,Ordinance,5,15557
+KingCountyCC_03212018,KingCountyCC,2018-03-21,5331.0,Ordinance,7,14556
+KingCountyCC_03072018,KingCountyCC,2018-03-07,10718.0,Ordinance,6,27486
+KingCountyCC_02212018,KingCountyCC,2018-02-21,8707.0,Ordinance,7,22960
+KingCountyCC_02072018,KingCountyCC,2018-02-07,1022.0,Ordinance,7,2466
+KingCountyCC_01172018,KingCountyCC,2018-01-17,6844.0,Motion,5,17910
+KingCountyCC_12062017,KingCountyCC,2017-12-06,7098.0,Motion,7,20529
+KingCountyCC_11292017,KingCountyCC,2017-11-29,6259.0,Ordinance,6,16327
+KingCountyCC_10182017,KingCountyCC,2017-10-18,3270.0,Ordinance,6,8794
+KingCountyCC_09062017,KingCountyCC,2017-09-06,5017.0,Ordinance,7,12897
+KingCountyCC_08302017,KingCountyCC,2017-08-30,4325.0,Motion,6,11364
+KingCountyCC_07262017,KingCountyCC,2017-07-26,6191.0,Motion,10,16547
+KingCountyCC_07192017,KingCountyCC,2017-07-19,5270.0,Motion,7,14378
+KingCountyCC_06122017,KingCountyCC,2017-06-12,7862.0,Ordinance,6,21945
+KingCountyCC_06072017,KingCountyCC,2017-06-07,5258.0,Ordinance,6,14680
+KingCountyCC_05032017,KingCountyCC,2017-05-03,1901.0,Motion,4,4963
+KingCountyCC_04192017,KingCountyCC,2017-04-19,6894.0,Ordinance,6,17727
+KingCountyCC_04052017,KingCountyCC,2017-04-05,7305.0,Motion,6,20139
+KingCountyCC_03292017,KingCountyCC,2017-03-29,5082.0,Ordinance,6,12524
+KingCountyCC_02012017,KingCountyCC,2017-02-01,5284.0,Ordinance,5,15299
+KingCountyCC_01182017,KingCountyCC,2017-01-18,3774.0,Ordinance,6,9317
+KingCountyCC_12072016,KingCountyCC,2016-12-07,5816.0,Ordinance,3,16567
+KingCountyCC_11282016,KingCountyCC,2016-11-28,7189.0,Motion,7,19878
+KingCountyCC_10172016,KingCountyCC,2016-10-17,7230.0,Motion,9,18602
+KingCountyCC_10032016,KingCountyCC,2016-10-03,6919.0,Motion,7,19182
+KingCountyCC_09212016,KingCountyCC,2016-09-21,5700.0,Motion,8,15021
+KingCountyCC_09072016,KingCountyCC,2016-09-07,5796.0,Ordinance,6,15731
+KingCountyCC_07062016,KingCountyCC,2016-07-06,5806.0,Motion,6,15448
+KingCountyCC_06292016,KingCountyCC,2016-06-29,6289.0,Ordinance,6,16065
+KingCountyCC_06152016,KingCountyCC,2016-06-15,5946.0,Ordinance,7,16114
+KingCountyCC_06012016,KingCountyCC,2016-06-01,4537.0,Ordinance,8,11522
+KingCountyCC_05042016,KingCountyCC,2016-05-04,9554.0,Motion,8,26596
+KingCountyCC_04252016,KingCountyCC,2016-04-25,1169.0,Motion,3,1537
+KingCountyCC_03302016,KingCountyCC,2016-03-30,6252.0,Ordinance,6,16485
+KingCountyCC_02172016,KingCountyCC,2016-02-17,4899.0,Ordinance,6,12796
+KingCountyCC_02032016,KingCountyCC,2016-02-03,3410.0,Ordinance,5,9714
+KingCountyCC_01072016,KingCountyCC,2016-01-07,4635.0,Motion,7,11998
+AlamedaCC_03152022,AlamedaCC,2022-03-15,14184.0,Consent Calendar Item,4,33468
+AlamedaCC_12212021,AlamedaCC,2021-12-21,17624.0,Consent Calendar Item,6,41832
+AlamedaCC_11162021,AlamedaCC,2021-11-16,17151.0,Joint Agenda Item,6,41124
+AlamedaCC_11022021,AlamedaCC,2021-11-02,16845.0,Consent Calendar Item,8,38602
+AlamedaCC_10192021,AlamedaCC,2021-10-19,16870.0,Consent Calendar Item,3,40772
+AlamedaCC_10052021,AlamedaCC,2021-10-05,15353.0,Council Communication ,5,36058
+AlamedaCC_09212021,AlamedaCC,2021-09-21,16541.0,Regular Agenda Item,5,38969
+AlamedaCC_09072021,AlamedaCC,2021-09-07,18133.0,Regular Agenda Item,6,41871
+AlamedaCC_07202021,AlamedaCC,2021-07-20,16572.0,Regular Agenda Item,4,38699
+AlamedaCC_07062021,AlamedaCC,2021-07-06,24739.0,Regular Agenda Item,4,60625
+AlamedaCC_06152021,AlamedaCC,2021-06-15,17203.0,Joint Agenda Item,3,39671
+AlamedaCC_03302021,AlamedaCC,2021-03-30,15009.0,Regular Agenda Item,6,35180
+AlamedaCC_01192021,AlamedaCC,2021-01-19,18693.0,Consent Calendar Item,8,43600
+AlamedaCC_01052021,AlamedaCC,2021-01-05,17238.0,Joint Agenda Item,5,38740
+AlamedaCC_12152020,AlamedaCC,2020-12-15,9147.0,Regular Agenda Item,6,19730
+AlamedaCC_12012020,AlamedaCC,2020-12-01,15898.0,Consent Calendar Item,8,38368
+AlamedaCC_11172020,AlamedaCC,2020-11-17,18058.0,Consent Calendar Item,8,43023
+AlamedaCC_10202020,AlamedaCC,2020-10-20,16354.0,Regular Agenda Item,7,39158
+AlamedaCC_10062020,AlamedaCC,2020-10-06,13783.0,Regular Agenda Item,7,32979
+AlamedaCC_09152020,AlamedaCC,2020-09-15,13429.0,Consent Calendar Item,5,33785
+AlamedaCC_07212020,AlamedaCC,2020-07-21,20083.0,Joint Consent Item,10,48949
+AlamedaCC_07072020,AlamedaCC,2020-07-07,15369.0,Consent Calendar Item,4,38852
+AlamedaCC_06292020,AlamedaCC,2020-06-29,16085.0,Regular Agenda Item,4,42305
+AlamedaCC_06162020,AlamedaCC,2020-06-16,17346.0,Consent Calendar Item,5,43919
+AlamedaCC_06022020,AlamedaCC,2020-06-02,17764.0,Regular Agenda Item,3,43847
+AlamedaCC_05192020,AlamedaCC,2020-05-19,17265.0,Consent Calendar Item,5,43879
+AlamedaCC_AlamedaCC_04072015,AlamedaCC,2015-04-07,5150.0,Regular Agenda Item,4,13411
+AlamedaCC_05052020,AlamedaCC,2020-05-05,15971.0,Regular Agenda Item,4,41244
+AlamedaCC_04222020,AlamedaCC,2020-04-22,10133.0,Consent Calendar Item,2,25930
+AlamedaCC_03032020,AlamedaCC,2020-03-03,16978.0,Regular Agenda Item,13,41919
+AlamedaCC_02182020,AlamedaCC,2020-02-18,16686.0,Consent Calendar Item,12,43496
+AlamedaCC_02042020,AlamedaCC,2020-02-04,16132.0,Proclamation/Special Order,13,38088
+AlamedaCC_01212020,AlamedaCC,2020-01-21,7213.0,SACIC Consent Item,11,18176
+AlamedaCC_01072020,AlamedaCC,2020-01-07,9361.0,Consent Calendar Item,9,24682
+AlamedaCC_12172019,AlamedaCC,2019-12-17,11609.0,Consent Calendar Item,11,29512
+AlamedaCC_12032019,AlamedaCC,2019-12-03,10025.0,Consent Calendar Item,10,22352
+AlamedaCC_11192019,AlamedaCC,2019-11-19,17454.0,Consent Calendar Item,13,43586
+AlamedaCC_11052019,AlamedaCC,2019-11-05,8489.0,Proclamation/Special Order,9,22737
+AlamedaCC_10152019,AlamedaCC,2019-10-15,18461.0,Regular Agenda Item,12,48382
+AlamedaCC_10012019,AlamedaCC,2019-10-01,14141.0,Proclamation/Special Order,13,34753
+AlamedaCC_09172019,AlamedaCC,2019-09-17,15577.0,Proclamation/Special Order,11,39881
+AlamedaCC_09032019,AlamedaCC,2019-09-03,17736.0,Consent Calendar Item,11,43168
+AlamedaCC_07162019,AlamedaCC,2019-07-16,22178.0,Regular Agenda Item,15,52720
+AlamedaCC_06182019,AlamedaCC,2019-06-18,11344.0,Regular Agenda Item,12,26480
+AlamedaCC_06042019,AlamedaCC,2019-06-04,10972.0,Proclamation/Special Order,14,22848
+AlamedaCC_05212019,AlamedaCC,2019-05-21,9267.0,Regular Agenda Item,10,21959
+AlamedaCC_05072019,AlamedaCC,2019-05-07,18721.0,Proclamation/Special Order,12,45109
+AlamedaCC_04162019,AlamedaCC,2019-04-16,16015.0,Joint Consent Item,12,41584
+AlamedaCC_04022019,AlamedaCC,2019-04-02,21554.0,Regular Agenda Item,13,55931
+AlamedaCC_03192019,AlamedaCC,2019-03-19,22944.0,Consent Calendar Item,15,58911
+AlamedaCC_03052019,AlamedaCC,2019-03-05,15216.0,Consent Calendar Item,12,40008
+AlamedaCC_02052019,AlamedaCC,2019-02-05,20923.0,Regular Agenda Item,13,53192
+AlamedaCC_01152019,AlamedaCC,2019-01-15,13739.0,Consent Calendar Item,10,28679
+AlamedaCC_01102019,AlamedaCC,2019-01-10,1048.0,Regular Agenda Item,7,2493
+AlamedaCC_01022019,AlamedaCC,2019-01-02,12179.0,SACIC Consent Item,9,30625
+AlamedaCC_12182018,AlamedaCC,2018-12-18,12836.0,Consent Calendar Item,9,22769
+AlamedaCC_12042018,AlamedaCC,2018-12-04,15183.0,Consent Calendar Item,9,38294
+AlamedaCC_11272018,AlamedaCC,2018-11-27,24923.0,Consent Calendar Item,11,42246
+AlamedaCC_11072018,AlamedaCC,2018-11-07,12595.0,Consent Calendar Item,13,29108
+AlamedaCC_10022018,AlamedaCC,2018-10-02,18006.0,Council Referral,11,34606
+AlamedaCC_09182018,AlamedaCC,2018-09-18,18004.0,Consent Calendar Item,13,24437
+AlamedaCC_09042018,AlamedaCC,2018-09-04,19187.0,Consent Calendar Item,13,50479
+AlamedaCC_07242018,AlamedaCC,2018-07-24,20610.0,Consent Calendar Item,11,46937
+AlamedaCC_07102018,AlamedaCC,2018-07-10,22172.0,Consent Calendar Item,12,55836
+AlamedaCC_06192018,AlamedaCC,2018-06-19,14491.0,Consent Calendar Item,9,37269
+AlamedaCC_06052018,AlamedaCC,2018-06-05,17649.0,Consent Calendar Item,10,44061
+AlamedaCC_05012018,AlamedaCC,2018-05-01,11015.0,Consent Calendar Item,11,28763
+AlamedaCC_04172018,AlamedaCC,2018-04-17,19175.0,Consent Calendar Item,10,48500
+AlamedaCC_04032018,AlamedaCC,2018-04-03,10740.0,Consent Calendar Item,11,27886
+AlamedaCC_03202018,AlamedaCC,2018-03-20,13936.0,Consent Calendar Item,10,33708
+AlamedaCC_03062018,AlamedaCC,2018-03-06,18766.0,Joint Consent Item,12,46465
+AlamedaCC_02202018,AlamedaCC,2018-02-20,14137.0,Consent Calendar Item,12,34140
+AlamedaCC_01162018,AlamedaCC,2018-01-16,18691.0,Consent Calendar Item,11,46313
+AlamedaCC_12192017,AlamedaCC,2017-12-19,20599.0,Closed Session Item,10,49643
+AlamedaCC_12052017,AlamedaCC,2017-12-05,20309.0,Consent Calendar Item,14,50997
+AlamedaCC_11212017,AlamedaCC,2017-11-21,8165.0,Consent Calendar Item,7,21351
+AlamedaCC_11072017,AlamedaCC,2017-11-07,29561.0,Consent Calendar Item,12,76134
+AlamedaCC_10032017,AlamedaCC,2017-10-03,14308.0,Consent Calendar Item,9,38144
+AlamedaCC_09192017,AlamedaCC,2017-09-19,15034.0,Joint Consent Item,9,37953
+AlamedaCC_09052017,AlamedaCC,2017-09-05,19195.0,Regular Agenda Item,10,49004
+AlamedaCC_07182017,AlamedaCC,2017-07-18,28588.0,Consent Calendar Item,12,67453
+AlamedaCC_07052017,AlamedaCC,2017-07-05,18698.0,Proclamation/Special Order,12,46903
+AlamedaCC_06202017,AlamedaCC,2017-06-20,13949.0,Consent Calendar Item,10,32540
+AlamedaCC_06062017,AlamedaCC,2017-06-06,25117.0,Consent Calendar Item,12,56376
+AlamedaCC_05172017,AlamedaCC,2017-05-17,18279.0,Regular Agenda Item,10,44302
+AlamedaCC_05162017,AlamedaCC,2017-05-16,20456.0,Consent Calendar Item,12,51482
+AlamedaCC_05022017,AlamedaCC,2017-05-02,10185.0,Council Referral,12,25085
+AlamedaCC_04182017,AlamedaCC,2017-04-18,24374.0,Consent Calendar Item,12,62857
+AlamedaCC_04042017,AlamedaCC,2017-04-04,21727.0,Consent Calendar Item,12,53292
+AlamedaCC_03072017,AlamedaCC,2017-03-07,18856.0,Council Referral,13,42806
+AlamedaCC_02212017,AlamedaCC,2017-02-21,19427.0,Consent Calendar Item,15,47125
+AlamedaCC_02072017,AlamedaCC,2017-02-07,9566.0,SACIC Regular Item,11,23358
+AlamedaCC_01032017,AlamedaCC,2017-01-03,10537.0,Consent Calendar Item,9,27191
+AlamedaCC_12202016,AlamedaCC,2016-12-20,14951.0,Regular Agenda Item,9,33748
+AlamedaCC_12062016,AlamedaCC,2016-12-06,12535.0,Council Referral,11,30319
+AlamedaCC_11152016,AlamedaCC,2016-11-15,8869.0,Consent Calendar Item,10,21960
+AlamedaCC_11012016,AlamedaCC,2016-11-01,15584.0,Proclamation/Special Order,9,39684
+AlamedaCC_10182016,AlamedaCC,2016-10-18,17578.0,Regular Agenda Item,11,44189
+AlamedaCC_10042016,AlamedaCC,2016-10-04,13999.0,Consent Calendar Item,13,34662
+AlamedaCC_09202016,AlamedaCC,2016-09-20,21205.0,Consent Calendar Item,11,54380
+AlamedaCC_09062016,AlamedaCC,2016-09-06,16954.0,Council Communication ,11,41761
+AlamedaCC_08082016,AlamedaCC,2016-08-08,5719.0,Regular Agenda Item,9,13689
+AlamedaCC_07192016,AlamedaCC,2016-07-19,13954.0,Consent Calendar Item,11,33284
+AlamedaCC_07052016,AlamedaCC,2016-07-05,18168.0,Consent Calendar Item,11,46511
+AlamedaCC_06212016,AlamedaCC,2016-06-21,19026.0,Consent Calendar Item,10,32992
+AlamedaCC_06072016,AlamedaCC,2016-06-07,14287.0,Council Communication ,9,35162
+AlamedaCC_05172016,AlamedaCC,2016-05-17,12537.0,Regular Agenda Item,10,31848
+AlamedaCC_04192016,AlamedaCC,2016-04-19,14508.0,Joint Consent Item,13,35222
+AlamedaCC_04052016,AlamedaCC,2016-04-05,12948.0,Consent Calendar Item,10,33527
+AlamedaCC_03012016,AlamedaCC,2016-03-01,25493.0,Regular Agenda Item,11,60364
+AlamedaCC_02242016,AlamedaCC,2016-02-24,15448.0,Closed Session Item,12,37379
+AlamedaCC_02022016,AlamedaCC,2016-02-02,27420.0,Regular Agenda Item,12,66996
+AlamedaCC_01192016,AlamedaCC,2016-01-19,5102.0,Consent Calendar Item,8,12875
+AlamedaCC_12152015,AlamedaCC,2015-12-15,16039.0,Closed Session Item,8,41195
+AlamedaCC_12012015,AlamedaCC,2015-12-01,15679.0,Regular Agenda Item,10,37703
+AlamedaCC_11172015,AlamedaCC,2015-11-17,5524.0,Consent Calendar Item,8,10908
+AlamedaCC_11042015,AlamedaCC,2015-11-04,27311.0,Regular Agenda Item,12,64754
+AlamedaCC_11032015,AlamedaCC,2015-11-03,12760.0,Consent Calendar Item,9,32787
+AlamedaCC_10202015,AlamedaCC,2015-10-20,20044.0,Proclamation/Special Order,10,50654
+AlamedaCC_10062015,AlamedaCC,2015-10-06,13893.0,Proclamation/Special Order,9,33727
+AlamedaCC_09012015,AlamedaCC,2015-09-01,28310.0,Proclamation/Special Order,12,55312
+AlamedaCC_07212015,AlamedaCC,2015-07-21,14067.0,Regular Agenda Item,11,34006
+AlamedaCC_07162015,AlamedaCC,2015-07-16,8527.0,Proclamation/Special Order,8,23197
+AlamedaCC_07072015,AlamedaCC,2015-07-07,7588.0,Joint Agenda Item,10,14253
+AlamedaCC_06162015,AlamedaCC,2015-06-16,21044.0,Regular Agenda Item,9,51123
+AlamedaCC_06112015,AlamedaCC,2015-06-11,7827.0,Proclamation/Special Order,9,20497
+AlamedaCC_06022015,AlamedaCC,2015-06-02,17485.0,Proclamation/Special Order,7,43053
+AlamedaCC_05192015,AlamedaCC,2015-05-19,20478.0,Consent Calendar Item,11,52402
+AlamedaCC_05122015,AlamedaCC,2015-05-12,18670.0,Regular Agenda Item,9,45914
+AlamedaCC_05062015,AlamedaCC,2015-05-06,21236.0,Regular Agenda Item,9,52059
+AlamedaCC_05052015,AlamedaCC,2015-05-05,18379.0,Proclamation/Special Order,11,43278
+AlamedaCC_04292015,AlamedaCC,2015-04-29,21268.0,Regular Agenda Item,11,50591
+AlamedaCC_04212015,AlamedaCC,2015-04-21,15090.0,Consent Calendar Item,11,37020
+AlamedaCC_04072015,AlamedaCC,2015-04-07,24212.0,Closed Session Item,10,61686
+AlamedaCC_03172015,AlamedaCC,2015-03-17,17052.0,Proclamation/Special Order,8,40187
+AlamedaCC_03102015,AlamedaCC,2015-03-10,12072.0,Regular Agenda Item,7,32202
+AlamedaCC_03032015,AlamedaCC,2015-03-03,21593.0,Regular Agenda Item,9,50481
+AlamedaCC_02172015,AlamedaCC,2015-02-17,19386.0,Joint Agenda Item,10,50078
+AlamedaCC_02032015,AlamedaCC,2015-02-03,9676.0,Joint Agenda Item,9,23376
+AlamedaCC_01212015,AlamedaCC,2015-01-21,14096.0,Council Referral,9,35383
+AlamedaCC_01202015,AlamedaCC,2015-01-20,23169.0,Closed Session Item,9,58706
+AlamedaCC_01062015,AlamedaCC,2015-01-06,16730.0,Consent Calendar Item,11,39156
+BostonCC_08102022,BostonCC,2022-08-10,12297.0,Mayor Order,8,28839
+BostonCC_06292022,BostonCC,2022-06-29,26145.0,Mayor Order,9,42426
+BostonCC_06152022,BostonCC,2022-06-15,8330.0,Mayor Order,9,18608
+BostonCC_06082022,BostonCC,2022-06-08,14477.0,Mayor Home Rule Petition,11,34086
+BostonCC_05252022,BostonCC,2022-05-25,4407.0,Committee Reports,8,10844
+BostonCC_05182022,BostonCC,2022-05-18,9804.0,Report of Public Officer,9,23292
+BostonCC_05112022,BostonCC,2022-05-11,5775.0,Council Legislative Resolution,8,12727
+BostonCC_05042022,BostonCC,2022-05-04,7782.0,Mayor Order,8,20098
+BostonCC_04272022,BostonCC,2022-04-27,9739.0,Mayor Order,8,22680
+BostonCC_04132022,BostonCC,2022-04-13,11010.0,Mayor Order,8,28695
+BostonCC_04062022,BostonCC,2022-04-06,4621.0,Council Home Rule Petition,7,12024
+BostonCC_03302022,BostonCC,2022-03-30,11611.0,Mayor Order,8,30249
+BostonCC_03232022,BostonCC,2022-03-23,4909.0,Report of Public Officer,9,11823
+BostonCC_03162022,BostonCC,2022-03-16,8097.0,Mayor Order,8,18902
+BostonCC_03092022,BostonCC,2022-03-09,5310.0,Mayor Order,8,10547
+BostonCC_03022022,BostonCC,2022-03-02,9818.0,Mayor Order,6,21464
+BostonCC_02162022,BostonCC,2022-02-16,7632.0,Mayor Order,8,17823
+BostonCC_02092022,BostonCC,2022-02-09,5020.0,Mayor Order,4,11314
+BostonCC_02022022,BostonCC,2022-02-02,10228.0,Mayor Order,4,22454
+BostonCC_01262022,BostonCC,2022-01-26,14573.0,Council Order,7,26044
+BostonCC_01032022,BostonCC,2022-01-03,2710.0,Personnel Orders,5,5451
+BostonCC_12152021,BostonCC,2021-12-15,16638.0,Mayor Order,10,45143
+BostonCC_12082021,BostonCC,2021-12-08,3890.0,Committee Reports,7,10770
+BostonCC_12012021,BostonCC,2021-12-01,5335.0,Report of Public Officer,8,10110
+BostonCC_11172021,BostonCC,2021-11-17,7437.0,Matters Recently Heard-For Possible Action,6,20932
+BostonCC_11032021,BostonCC,2021-11-03,3034.0,Committee Reports,7,7667
+BostonCC_10272021,BostonCC,2021-10-27,3198.0,Committee Reports,6,8071
+BostonCC_10202021,BostonCC,2021-10-20,7800.0,Mayor Order,7,22189
+BostonCC_10062021,BostonCC,2021-10-06,5520.0,Mayor Order,9,13074
+BostonCC_09292021,BostonCC,2021-09-29,4653.0,Mayor Order,9,9183
+BostonCC_09222021,BostonCC,2021-09-22,4479.0,Mayor Order,7,11061
+BostonCC_09152021,BostonCC,2021-09-15,5169.0,Mayor Order,9,13613
